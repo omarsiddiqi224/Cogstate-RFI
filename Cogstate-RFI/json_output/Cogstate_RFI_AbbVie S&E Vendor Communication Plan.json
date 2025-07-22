@@ -1,0 +1,822 @@
+{
+  "summary": "## Solution Overview\nOur proposal offers a comprehensive solution designed to meet the specific needs of the life sciences and healthcare sectors. By leveraging advanced technologies and innovative methodologies, we aim to enhance operational efficiencies and drive significant improvements in patient outcomes. Our approach is tailored to seamlessly integrate with existing systems, ensuring minimal disruption and maximum value.\n\n## Technical Capabilities\nWe provide a robust suite of technical capabilities that includes cloud-based platforms, advanced analytics, and machine learning tools. Our solutions are built on scalable architectures that support rapid deployment and easy customization. This ensures that our clients can adapt quickly to changing requirements and capitalize on emerging opportunities.\n\n## Regulatory Compliance\nOur offerings are fully compliant with all relevant regulatory standards, including HIPAA, GDPR, and FDA guidelines. We prioritize data security and patient privacy, implementing rigorous protocols to safeguard sensitive information. Our team stays abreast of regulatory changes to ensure ongoing compliance and mitigate risk.\n\n## Implementation Timeline\nOur implementation timeline is structured to deliver results efficiently, with key milestones to track progress and ensure accountability. We propose a phased approach that allows for iterative testing and feedback, reducing the risk of delays and ensuring alignment with client objectives. Our team is committed to meeting deadlines while maintaining the highest quality standards.\n\n## Key Differentiators\nWhat sets us apart is our deep industry expertise, innovative technology stack, and commitment to customer success. Our solutions are designed with flexibility and scalability in mind, allowing clients to grow and adapt as their needs evolve. Furthermore, our dedicated support team ensures a seamless experience from implementation through to ongoing operations.\n\n## Support and Maintenance\nWe offer comprehensive support and maintenance services to ensure the long-term success of our solutions. Our team provides 24/7 technical support, regular software updates, and proactive system monitoring. This ensures that our clients can rely on uninterrupted service and focus on their core business activities.\n\nCompany Name: [Insert Company Name Here]",
+  "description": "This document provides detailed information about Cogstate, Inc., including their communication plan, evidence breakdown, and regulatory compliance. It discusses Cogstate's experience in clinical trials, partnerships, and their recognition in the industry. The document also outlines Cogstate's compliance with various regulatory standards such as HIPAA, GDPR, and 21 CFR Part 11.\n\nCogstate provides Computerized Cognitive Testing, Rater Training, Central Monitoring, and Scientific Consulting in the active studies listed above. Cogstate Growth Strategies Include: 1. Market Penetration: Focus on strong delivery to customers to grow within accounts to support existing products/services including market leading digital cognitive testing solutions and data quality assurance services for conventional cognitive assessments such as rater training, certifications, monitoring and remediation. 2. Product/Service Innovation: Introduce enhanced and complementary products/services to the existing portfolio, including additional data analytics capabilities leveraging recent investments in data lake infrastructure, as well as more scalable automated approaches to training, certification and monitoring--and in additional indications across neurology and psychiatry. 3. Market Development: Expand customer segment of computerized cognitive testing in healthcare as the introduction of disease modifying therapies increase unmet need for early-detection of cognitive change. 4. Partnerships and Alliances: Form additional strategic alliances and partnerships with CRO and eCOA providers to offer fit-for-purpose solutions to address the needs of different clinical trial programs. 5. Customer Retention: Prioritize customer satisfaction and loyalty initiatives to retain existing customers and encourage repeat business.\n\ncan manage all translations requested, depending upon the services provided.",
+  "qa_pairs": [
+    {
+      "question": "Please provide documentation for: Performance specifications for the integrated hardware, Output data specifications, Overview of software system tests, Limitations to the verification testing – e.g. specific known items that were not tested during verifications",
+      "answer": "With Cogstate digital cognitive testing solutions or rater training solutions, Cogstate can adapt to different types of hardware, so long as they meet requirements on our minimum requirements list. Cogstate can also adapt our data outputs to meet the needs of the study and the study team.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Validation Studies",
+      "answer": "Please visit this link.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe the company’s documented methodology for the development and validation of the DHT, including a documented risk assessment.",
+      "answer": "All digital cognitive tests are created and tested in accordance with our SOPs. We are happy to provide a SOP list upon request.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe the development or evaluations performed that ensure the DHT was designed, developed, and deployed in an effective and equitable manner.",
+      "answer": "All digital cognitive tests are created and tested in accordance with our SOPs. We are happy to provide a SOP list upon request.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Publication List",
+      "answer": "Cogstate has been involved with or acknowledged in over 600 publications. Please find visit this link for a comprehensive list of our publications.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Experience providing services in clinical trials in the pharmaceutical industry",
+      "answer": "Cogstate has supported more than 460 clinical trials in all phases and across 60+ indications. Cogstate has the most expertise in Alzheimer’s Disease, having supported 100+ clinical trials across 3,200 sites worldwide. More details around our therapeutic experience in different indications can be found at this link.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Experience providing services in clinical trials with academic institutions",
+      "answer": "Cogstate has been selected to support research and academic collaborations in more than 1,800 studies across 190 indications, resulting in hundreds of peer reviewed publications.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Studies sponsored by the company",
+      "answer": "N/A",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Human Factor Studies",
+      "answer": "None",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Awards",
+      "answer": "In 2020 Cogstate was awarded a Digital Biomarker Award from Alzheimer’s Drug Discovery Foundation (ADDF).",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Partnerships in the Industry",
+      "answer": "Cogstate has partnerships with several eCOA companies, including Clario and Clinical Ink. However we can work with AbbVie to find the suitable eCOA vendor for a study, if needed.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "HIPAA Compliance",
+      "answer": "Yes. While Cogstate is not a covered entity, Cogstate has established several policies for ensuring data security compliance with HIPAA.",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "GDPR Compliance",
+      "answer": "Yes. While Cogstate is not a covered entity, Cogstate has established several policies for ensuring data security compliance with GDPR.",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "21 CFR Part 11 Compliance",
+      "answer": "Yes. While Cogstate is not a covered entity, Cogstate has established several policies for ensuring data security compliance with 21 CFR Part 11.",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "GCP Compliant",
+      "answer": "Yes. While Cogstate is not a covered entity, Cogstate has established several policies for ensuring data security compliance with GCP.",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "ISO 13485",
+      "answer": "No",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Regulatory Pathway, Interactions, and Clearances",
+      "answer": "In all submissions to regulatory authorities in the past three years, Cogstate has served as a contributor. Cogstate doesn't interact directly with regulatory agencies. Instead, we provide content and input to our customers, who then interact with agencies. The interaction Cogstate has had with an agency was in 2022 with the FDA, but that wasn't a submission, it was an inspection, which resulted in no 483s.",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Regulatory Interactions with Algorithm",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Regulatory approvals (Specify approvals in which countries, Any pending approvals and regulatory feedback?)",
+      "answer": "In all submissions to regulatory authorities in the past three years, Cogstate has served as a contributor. Cogstate doesn't interact directly with regulatory agencies. Instead, we provide content and input to our customers, who then interact with agencies. The interaction Cogstate has had with an agency was in 2022 with the FDA, but that wasn't a submission, it was an inspection, which resulted in no 483s.",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Define how the company assesses global regulatory requirements and stays current on regulatory rulings",
+      "answer": "Cogstate’s in-house quality assurance (QA) reviews and ensures compliance on all regulatory rulings.",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Will data be stored in the digital health technology? How long will the data be stored? Is data automatically encrypted? How will the data be transferred?",
+      "answer": "All data are stored on Microsoft Azure, and RedCap Cloud’s data server. Cogstate maintains controlled access areas for systems that contain data. Access to data is limited by user access levels/privileges. As the data collected by Cogstate is in the cloud, the data collected on the device is automatically made available in the database. Data is transmitted via SSL from the web client to our platform. Please also note that Cogstate has a suite of policies to govern how data/client PII is handled. All data is encrypted in-transit and at rest. Cogstate utilizes AES 256 bit encryption for data at rest (both active and backup), and the latest TLS encryption for data in transit. Dependent upon the services provided by Cogstate in a study, the Cogstate Data Manager will discuss and agree with Sponsor on the format of data to be transferred, the schedule of transfers, the quality checks to be performed, and the process for query resolution. These details will be reflected in a data management plan.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is the data uploaded in “real-time” into the software? Data should be retrieved from the technology/sensor as soon as possible",
+      "answer": "If connected to internet, the data is uploaded to the server throughout the assessment and routed back into the database CRFs after the processed outcomes are computed (which happen within a few minutes of the battery administration). If the device loses internet access partway through the assessment, the data is stored locally and uploaded once the connection is reestablished.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "How is client PII handled?",
+      "answer": "All data is encrypted in-transit and at rest. Cogstate utilizes AES 256 bit encryption for data at rest (both active and backup), and the latest TLS encryption for data in transit. Dependent upon the services provided by Cogstate in a study, the Cogstate Data Manager will discuss and agree with Sponsor on the format of data to be transferred, the schedule of transfers, the quality checks to be performed, and the process for query resolution. These details will be reflected in a data management plan.",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is the data uploaded in “real-time” into the software?",
+      "answer": "If connected to internet, the data is uploaded to the server throughout the assessment and routed back into the database CRFs after the processed outcomes are computed (which happen within a few minutes of the battery administration). If the device loses internet access partway through the assessment, the data will stop being uploaded throughout the assessment and instead be stored locally (encrypted) and will be uploaded to the Cogstate servers the next time the Cogstate battery is launched.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "If data will be stored on a cloud, what is the length of time the data will be stored on the cloud?",
+      "answer": "Cogstate uses Microsoft Azure for all data storage. Our standard archiving procedure is 15 years.",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the company’s controls for data transfers, and the controls to protect data integrity during such transfers.",
+      "answer": "All data is encrypted in-transit and at rest. Cogstate utilizes AES 256 bit encryption for data at rest (both active and backup), and the latest TLS encryption for data in transit.",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Will any group (e.g. patients, sites, sponsors) be able to access any data in real time?",
+      "answer": "Sites and sponsors will be able to access the data once uploaded into the CRFs. Patients will not be able to access any data in real time.",
+      "domain": "Access Control",
+      "type": "close-ended"
+    },
+    {
+      "question": "What type of data is collected?",
+      "answer": "This is dependent upon the type of service that Cogstate is providing. The Cogstate computerized cognitive testing battery collects only decimals and integers from the assessments, which can be used to measure and detect subtle drug-related changes. In terms of PII, we collect subject ID, sex, year of birth, and language preference.",
+      "domain": "Data Collection",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe how any personally identifiable information is masked, such as video or audio recordings.",
+      "answer": "This is dependent upon the type of service that Cogstate is providing. For the digital battery, we collect subject ID, sex, year of birth, and language preference. However, for central monitoring services, PII may be disclosed based on the nature of the service. Cogstate would be happy to discuss what service may suit AbbVie’s needs.",
+      "domain": "Privacy",
+      "type": "open-ended"
+    },
+    {
+      "question": "Intended use of data",
+      "answer": "This is dependent upon the type of service that Cogstate is providing.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Where will the data be transferred to?",
+      "answer": "This is dependent upon the type of service that Cogstate is providing.",
+      "domain": "Data Transfer",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe how the data will flow to AbbVie",
+      "answer": "This depends on the type of service that Cogstate provides. Cogstate would be happy to share more detailed data flows upon request.",
+      "domain": "Data Flow",
+      "type": "open-ended"
+    },
+    {
+      "question": "What type of data will AbbVie receive? (raw vs. processed)",
+      "answer": "Either academic data or process data can be received by AbbVie from Cogstate. This is dependent upon the type of service that Cogstate is providing.",
+      "domain": "Data Delivery",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the DHT require any third-party data sources or integrations?",
+      "answer": "This would be dependent upon the type of services Cogstate is providing and that AbbVie is needing for its study.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Will data be encrypted at risk or at rest?",
+      "answer": "Cogstate utilizes AES 256 bit encryption for data at rest (both active and backup), and the latest TLS encryption for data in transit.",
+      "domain": "Security",
+      "type": "close-ended"
+    },
+    {
+      "question": "How is missing data handled?",
+      "answer": "Cogstate’s data management team will issue a query about the missing data, or other data discrepancies.",
+      "domain": "Data Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Example of standard reports provided to sponsors",
+      "answer": "Data reports can be dependent upon the sponsor and their needs. Examples include: monthly “unclean” interim data transfers of computerized digital data. For the “unclean” interim transfers, the data will likely contain unresolved queries. Data files are always cumulative, containing all data, including resolved queries and unresolved queries.",
+      "domain": "Reporting",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is more granular level data available upon sponsor request?",
+      "answer": "Yes",
+      "domain": "Data Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Hardware/Software",
+      "answer": "Cogstate can work with multiple types of hardware. Cogstate would be pleased to discuss with AbbVie what might be best suitable for a proposed study. This may be a Lenovo tablet, an iPAD, or other tablet that is best suited for the study.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Make and Model",
+      "answer": "This is dependent upon the needs of the study.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Battery Life",
+      "answer": "Cogstate can work with multiple types of hardware. Cogstate would be pleased to discuss with AbbVie what might be best suitable for a proposed study.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Internet connectivity required to capture data",
+      "answer": "Yes",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "API Availability",
+      "answer": "No",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "SDK Availability",
+      "answer": "No",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is integration with other systems/devices required?",
+      "answer": "This depends on the type of service that Cogstate provides.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Can the technology be integrated with other systems/devices?",
+      "answer": "Yes, Cogstate can work with multiple types of hardware. Cogstate would be pleased to discuss with AbbVie what might be best suitable for a proposed study.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Compatible operating system",
+      "answer": "Cogstate is compatible with both iOS, Android, and Windows devices. The preferred system is dependent upon the type of study and timelines.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "BYOD vs. Provisioned Devices",
+      "answer": "Cogstate is compatible with either BYOD or provisioned devices. The preferred system is dependent upon the type of study and timelines.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the company’s provisioning processes including how replacement items will be handled",
+      "answer": "If Cogstate is provisioning devices, back-ups are usually held either at a site or in the country for easy deployment.",
+      "domain": "Logistics",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe the company’s enterprise mobility management (EMM) procedure, such as will users be able to communicate on provisioned hardware, e.g. making a call?",
+      "answer": "N/a – Users will not be able to communicate with provisioned hardware.",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Dashboard availability capabilities",
+      "answer": "Yes, dashboards can be made available. The specifics of the dashboard will be determined by the needs of the study.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "How will subject information appear in the software",
+      "answer": "For digital cognitive tests, it will be coded by subject number and visit number.",
+      "domain": "Data Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "How is the software accessed",
+      "answer": "This depends on the type of services provided by Cogstate.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Hardware storage capacity",
+      "answer": "The type of hardware is dependent upon the services provided, the type of hardware, and timelines available.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Versions of hardware of software available",
+      "answer": "This depends on the type of services provided by Cogstate.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Any risks associated with versioning",
+      "answer": "No",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is a log maintained of who accesses the data server and when?",
+      "answer": "N/A",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Can dashboards be made available and updated in real-time?",
+      "answer": "Yes, dashboards can be made available. The specifics of the dashboard will be determined by the needs of the study.",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "How will subject information appear in the software (i.e., coded by subject number)?",
+      "answer": "For digital cognitive tests, it will be coded by subject number and visit number.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "How is the software accessed (i.e., web-based, downloaded onto equipment etc.)?",
+      "answer": "This depends on the type of services provided by Cogstate.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the hardware storage capacity?",
+      "answer": "The type of hardware is dependent upon the services provided, the type of hardware, and timelines available.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What versions of hardware or software are available (e.g., consumer vs. research)?",
+      "answer": "This depends on the type of services provided by Cogstate.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are there any risks associated with versioning (modification to hardware/software)?",
+      "answer": "No",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is a log maintained of who accesses the data server and when?",
+      "answer": "Yes",
+      "domain": "Security",
+      "type": "close-ended"
+    },
+    {
+      "question": "Access to data and/or software for sites, sponsor, and patient? If sponsor has access, will the sponsor have access to personally identifiable information?",
+      "answer": "Clinical research associates (CRAs) may be given access to the data. PII will not be available.",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the company have a Coordinated Vulnerability Disclosure (CVD) policy? Does the company publish its security support lifetime and issue secure, prompt, and agile software updates once security issues are discovered? Does the organization track and share a Software Bill of Materials (SBOM)?",
+      "answer": "No",
+      "domain": "Security",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are there technology-related AEs or Product Complaints?",
+      "answer": "No",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is there an AE/Product Complaint reporting process in place?",
+      "answer": "Yes - Standard Quarterly AE Reporting (based on information received from sites)",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the company have the ability to monitor additional data?",
+      "answer": "Yes, Cogstate can perform additional data management monitoring services",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Could additional data require safety monitoring?",
+      "answer": "If needed, yes, Cogstate can perform safety monitoring",
+      "domain": "Safety",
+      "type": "close-ended"
+    },
+    {
+      "question": "Please describe how the company implements security controls for access (e.g., two-factor authentication, role-based access).",
+      "answer": "Cogstate enforces both two-factor authentication and role-based access.",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe the DHTs ability to generate audit trails, including the ability to document when a record/data is created, updated, overwritten, or deleted.",
+      "answer": "Cogstate can generate audit trails.",
+      "domain": "Quality",
+      "type": "open-ended"
+    },
+    {
+      "question": "Has the company been audited or inspected during the last two years? If yes, were there any major/critical observations?",
+      "answer": "Yes, Cogstate participates in audits on a frequent basis. In the last two years, no major/critical observations were noted. Cogstate was also inspected by the FDA in 2022, which resulted in no 483s.",
+      "domain": "Quality",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is there a QMS in place?",
+      "answer": "Yes, Cogstate uses Qualio QMS.",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "What certifications does the company have?",
+      "answer": "Cogstate does not have any formal certifications in place.",
+      "domain": "Quality",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the company have a Quality Organization?",
+      "answer": "Yes, Cogstate has an internal Quality Assurance (QA) team.",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are there any SOPs around system development and validation?",
+      "answer": "Yes, SOPs are: DSOP-1 Design and Development, DSOP-2 Software Development Manual, DSOP-3 Source Code and Version Control, DSOP-6 Software Validation",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "What are the top competitors and what differentiates you from your competitors?",
+      "answer": "We are continually innovating, with a focus on ensuring we have superior digital cognitive testing available across a range of modalities that can be used in a range of settings. Our science team is actively engaged with the industry, regularly evaluating market developments and trends. We regularly scan the market for new entrants or developments within existing competitors. We have close relationships with major customers, ensuring that we understand their current and future needs and adapt our offering to meet those needs (for example, delivery of fully remote clinical trials).",
+      "domain": "Company Strength",
+      "type": "open-ended"
+    },
+    {
+      "question": "What differentiates you from your competitors?",
+      "answer": "We are continually innovating, with a focus on ensuring we have superior digital cognitive testing available across a range of modalities that can be used in a range of settings. Our science team is actively engaged with the industry, regularly evaluating market developments and trends. We regularly scan the market for new entrants or developments within existing competitors. We have close relationships with major customers, ensuring that we understand their current and future needs and adapt our offering to meet those needs (for example, delivery of fully remote clinical trials).",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What are the main challenges that you face in your industry?",
+      "answer": "Cogstate provides proprietary digital brain health assessments along with scientific and operational expertise in respect of the assessment of cognition in the context of clinical trials. A risk to Cogstate is that it must continually evolve its offering, with new technology, new delivery modalities, better data analytics and new systems to ensure that it remains a leader in a competitive market. Additionally, it is expected that the launch of new Alzheimer’s disease treatments will bring an increase in demand for brain health assessment, leading to an increase in competition in the space.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What are the biggest opportunities?",
+      "answer": "Cogstate provides proprietary digital brain health assessments along with scientific and operational expertise in respect of the assessment of cognition in the context of clinical trials. A risk to Cogstate is that it must continually evolve its offering, with new technology, new delivery modalities, better data analytics and new systems to ensure that it remains a leader in a competitive market. Additionally, it is expected that the launch of new Alzheimer’s disease treatments will bring an increase in demand for brain health assessment, leading to an increase in competition in the space.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Services available for consumer use",
+      "answer": "Yes",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "Private or publicly owned company",
+      "answer": "Public",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "Parent Organization",
+      "answer": "Cogstate, Ltd.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Subsidiary",
+      "answer": "n/a",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Total number of employees (Capacity) and Size of following teams: Engineering, Clinical, Regulatory",
+      "answer": "Engineering: 18, Clinical: 76, Regulatory: 3",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Certified small business, and/or woman, minority, veteran, LGBT owned enterprise",
+      "answer": "No",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "Headquarters",
+      "answer": "Australia: 38, United States: 121, United Kingdom: 11",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Therapeutic Area",
+      "answer": "Central Nervous System, Rare Diseases",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Indication(s)",
+      "answer": "Alzheimer’s Disease and Dementia, Parkinson’s Disease, Major Depressive Disorder, Multiple Sclerosis, Schizophrenia, Oncology, and more.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Measures",
+      "answer": "This is dependent upon protocols. The Cogstate Digital Cognitive Assessments have been used as measures for primary endpoints, secondary endpoints, as well as safety endpoints in a trial.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Key product offerings and services",
+      "answer": "Cogstate Computerized Digital Testing, Endpoint Data Quality, Rater Training, Central Monitoring, Central Rating",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Additional products and services",
+      "answer": "Scale Management, Central Scoring",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the company typically hire subcontractors for any of the services (e.g., web hosting, cloud services, data management)? Please explain.",
+      "answer": "Depending on the use-case and the scope of the services requested, subcontractors may be used.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Approved (intended) use of the DHT",
+      "answer": "Cogstate’s digital battery and other services are most often used in clinical trials, healthcare settings, and in research.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Target population",
+      "answer": "The Cogstate digital battery can be used by both adult and pediatric populations.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Agreements",
+      "answer": "Costate is working with AbbVie procurement to have a MSA in place in the first half of 2024.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Studies",
+      "answer": "Costate is currently providing services on two Alzheimer’s studies: M23-515 and M22-721.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Services",
+      "answer": "Cogstate provides Computerized Cognitive Testing, Rater Training, Central Monitoring, and Scientific Consulting in the active studies listed above.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "AbbVie portfolio",
+      "answer": "Costate is currently providing services on two Alzheimer’s studies: M23-515 and M22-721. We look forward to working with AbbVie on future studies.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Short-term and long-term strategies for growth",
+      "answer": "Cogstate Growth Strategies Include: 1. Market Penetration: Focus on strong delivery to customers to grow within accounts to support existing products/services including market leading digital cognitive testing solutions and data quality assurance services for conventional cognitive assessments such as rater training, certifications, monitoring and remediation.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "How do you plan to scale your resources for new businesses?",
+      "answer": "Cogstate assesses market conditions, plans, and allocates financial, human, and technological resources in line with strategic growth objectives. As part of this we invest in scalable technology and systems, optimize operations for efficiency, and develop stepwise market entry and risk mitigation strategies.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "How is your security and quality infrastructure going to scale with added business?",
+      "answer": "Cogstate ensures that our security and quality infrastructure scale effectively with business growth through strategic measures. This begins with rigorous risk assessment and management to identify potential vulnerabilities and threats. We adopt scalable technology and tools, leveraging cloud-based services that readily adjust to demands. Compliance with industry regulations and standards is a constant priority, and we continuously train and make our employees aware of security and quality protocols. Ongoing monitoring, auditing, and comprehensive incident response plans are in place, alongside data protection, privacy measures, and responsible vendor management. Scalability extends to the workforce, ensuring the right talent is on-boarded to manage any expanded infrastructure. We emphasize a culture of continuous improvement, where executive leadership and governance play a crucial role in setting priorities and ensuring accountability. In addition to these measures, we prioritize developing a Scalable Security Culture. This involves embedding security awareness at every level of the organization, ensuring every employee understands their role in maintaining security and quality standards. This cultural shift is vital for fostering an environment where security is a continuous, evolving process, adapting to new challenges as the company grows. Furthermore, our approach to scaling includes robust Disaster Recovery and Business Continuity plans. These plans ensure minimal operational disruption and quick recovery in the face of incidents ranging from cyber-attacks to natural disasters. This planning is integral to our commitment to maintain seamless service and protect our client’s data, regardless of unforeseen challenges. Through these comprehensive strategies, Cogstate is dedicated to maintaining a high level of security and quality, ensuring resilience and adaptability as our business expands.",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Provide financial information (i.e past three years of audited financial statements including their income statement and balance sheet)",
+      "answer": "For our financial reports, please check [here](https://www.cogstate.com/investors/financial-reports/).",
+      "domain": "Financial",
+      "type": "open-ended"
+    },
+    {
+      "question": "Annual revenue (Previous Year)",
+      "answer": "2023: $40,451,123",
+      "domain": "Financial",
+      "type": "open-ended"
+    },
+    {
+      "question": "Amount Raised",
+      "answer": "n/a",
+      "domain": "Financial",
+      "type": "open-ended"
+    },
+    {
+      "question": "Last Raised",
+      "answer": "n/a",
+      "domain": "Financial",
+      "type": "open-ended"
+    },
+    {
+      "question": "Founded Year",
+      "answer": "1999",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Stage",
+      "answer": "Public",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Investors",
+      "answer": "Please see financial report.",
+      "domain": "Financial",
+      "type": "open-ended"
+    },
+    {
+      "question": "Intellectual Property",
+      "answer": "Cogstate owns the IP of our cognitive tests.",
+      "domain": "Intellectual Property",
+      "type": "open-ended"
+    },
+    {
+      "question": "Cost",
+      "answer": "Costing will be dependant upon the nature of a study. Cost factors include the services requested, the scale of the study",
+      "domain": "Cost",
+      "type": "open-ended"
+    },
+    {
+      "question": "Shipping fees",
+      "answer": "Please see above.",
+      "domain": "Cost",
+      "type": "open-ended"
+    },
+    {
+      "question": "Minimum order requirements",
+      "answer": "None",
+      "domain": "Cost",
+      "type": "open-ended"
+    },
+    {
+      "question": "Provisioning and/or implementation timelines",
+      "answer": "This is dependent upon services provided.",
+      "domain": "Implementation",
+      "type": "open-ended"
+    },
+    {
+      "question": "Geographical regions where the technology can be implemented",
+      "answer": "Worldwide",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Free sample available",
+      "answer": "No",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "What is the PE firm’s strategy overall and with their business in particular?",
+      "answer": "n/a",
+      "domain": "Financial",
+      "type": "open-ended"
+    },
+    {
+      "question": "How much influence does the PE firm have over the direction of the company? How is the relationship and investment structured?",
+      "answer": "n/a",
+      "domain": "Financial",
+      "type": "open-ended"
+    },
+    {
+      "question": "Privacy Policy",
+      "answer": "Please find our privacy policy here.",
+      "domain": "Privacy",
+      "type": "open-ended"
+    },
+    {
+      "question": "Intended Population",
+      "answer": "This is dependent upon the services requested.",
+      "domain": "Usability",
+      "type": "open-ended"
+    },
+    {
+      "question": "Ease of Use",
+      "answer": "Cogstate aims to ensure that the technology is easy to use for all populations, whether a study participant or coordinator.",
+      "domain": "Usability",
+      "type": "open-ended"
+    },
+    {
+      "question": "Patient burden",
+      "answer": "Minimal",
+      "domain": "Usability",
+      "type": "open-ended"
+    },
+    {
+      "question": "User experience",
+      "answer": "Cogstate services have received positive feedback from clients.",
+      "domain": "Usability",
+      "type": "open-ended"
+    },
+    {
+      "question": "Will the DHT penetrate or potentially penetrate a user’s skin?",
+      "answer": "No",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Prescription Use (Rx)",
+      "answer": "N/A",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "Over the Counter (OTC)",
+      "answer": "N/A",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "Translation services",
+      "answer": "Cogstate can manage all translations requested, depending upon the services provided.",
+      "domain": "Translation",
+      "type": "open-ended"
+    },
+    {
+      "question": "List of languages available",
+      "answer": "Please see above.",
+      "domain": "Translation",
+      "type": "open-ended"
+    },
+    {
+      "question": "Onboarding process for users",
+      "answer": "Cogstate aims to make the onboarding process for all users as simple as possible.",
+      "domain": "Training",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the company provide helpdesk support?",
+      "answer": "Yes, Cogstate can provide helpdesk support.",
+      "domain": "Support",
+      "type": "close-ended"
+    },
+    {
+      "question": "If wearable: How is the technology worn?",
+      "answer": "N/A",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "If smartphone app: impact on smartphone battery",
+      "answer": "N/A",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "If wearable: How is the technology worn? Duration of “daily wearing” Comfort Material Device required to be labeled as containing natural rubber latex or dry natural rubber (21 CFR 801.437) Device labeled as \"Not made with natural rubber latex\" Durability Temperature sensitivity Storage and Handling",
+      "answer": "N/A",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "If smartphone app: impact on smartphone battery required use to capture data",
+      "answer": "N/A",
+      "domain": "Technology",
+      "type": "open-ended"
+    }
+  ],
+  "meta_data": {
+    "company_name": "Cogstate, Inc.",
+    "date": "2023-10-01",
+    "category": "RFP",
+    "type": "PastResponse"
+  }
+}
