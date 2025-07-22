@@ -1,0 +1,15 @@
+markitdown[all]
+unstructured[all]
+unstructured[doc]
+unstructured
+unstructured-inference
+pdfminer.six
+pypdf
+pymupdf
+onnxruntime
+python-dotenv
+tqdm
+SQLAlchemy
+langchain_openai
+langchain
+pydantic

@@ -1,0 +1,534 @@
+{
+  "summary": "## Solution Overview\nOur comprehensive solution is designed to address the multifaceted needs of the life sciences industry, leveraging advanced technologies to enhance operational efficiency and data accuracy. By integrating seamlessly with existing systems, our platform ensures a smooth transition and minimal disruption to current workflows, ultimately driving improved outcomes and innovation.\n\n## Technical Capabilities\nThe platform is built on a robust and scalable architecture, capable of handling large datasets with precision and speed. Our state-of-the-art analytics tools provide deep insights, enabling data-driven decision-making. Additionally, the system supports a wide range of integrations, ensuring compatibility with various third-party applications and services.\n\n## Regulatory Compliance\nWe adhere to stringent regulatory standards, ensuring that our solution is compliant with industry-specific regulations such as HIPAA, GDPR, and 21 CFR Part 11. Our dedicated compliance team continuously monitors changes in regulatory requirements to maintain the highest level of data security and integrity.\n\n## Implementation Timeline\nOur implementation process is streamlined and efficient, with a typical timeline of 8 to 12 weeks from project initiation to deployment. We provide comprehensive project management and support throughout the implementation phase to ensure timely delivery and successful adoption.\n\n## Key Differentiators\nOur solution stands out due to its user-friendly interface, customizable features, and unparalleled customer support. We offer a unique combination of domain expertise and technological innovation, which allows us to deliver tailored solutions that meet the specific needs of our clients.\n\n## Support and Maintenance\nWe offer 24/7 customer support and a range of maintenance services to ensure the ongoing performance and reliability of our solution. Our dedicated support team is always available to assist with any technical issues or inquiries, ensuring minimal downtime and continuous improvement.\n\nCompany Name: Cogstate",
+  "description": "Cogstate works with over 60 different pharmaceutical and biotechnology companies, supporting clinical studies in all phases of drug development with indications including, but not limited to: Alzheimer’s disease (AD), bipolar disorder, epilepsy, and genetic disorders.\n\nData after the minimum retention period. Only approved documents/records are maintained in electronic format. Paper records are not used. Electronic records are protected from loss by using secure cloud storage on Box. Source code, programs, and configurations are managed and protected in a standard code repository used by Software Engineers. Jira, TestRails, Ranorex, Box and Sharepoint are tools used for the following. When a version of the source code is changed, this version is required to be tagged appropriately. The source code for a given release is controlled through the repository and by using JIRA tickets for tracking and traceability.\n\nsoftware receives updates from admin portal, which is set to push automatically when a new update/patch is available.\n\nThe document includes a series of questions and responses related to system defects, data integrity, protection, and audit trails. It also contains a list of personnel and their roles within the organization.\n\nThe document appears to be a list of personnel involved in various departments related to decentralized clinical trials, software engineering, healthcare, finance, and more. Each entry includes a name, job title, and department or area of expertise.\n\nThe document contains a list of individuals along with their roles and departments within an organization. It appears to be an organizational chart or directory of personnel across various departments such as Quality Control, IT, Software Engineering, Product Development, Data & Scientific Services, Science, Site Services, Client Solutions, and Healthcare & Research. Each entry provides the name, job title, and department of each individual.\n\nThis document lists various personnel and their roles, along with some procedural content related to testing using Google Chrome and TestRail.\n\nThe document outlines the procedures for conducting standard tests using the HTML5 Task Runner in Google Chrome. It specifies the preconditions, steps, and results for the test execution. The test is verified by QA and involves checking the display of instruction screens and the auditory and visual feedback against specifications. The test is conducted using a laptop with specified configurations and an active internet connection.\n\nThis document contains various parameters and logs related to a detection task. It outlines the configuration settings, such as task duration, completion scores, and instructions for different phases. The logs provide details on stimulus types, onset times, response details, and reaction times.\n\nThis document contains various parameters and task summaries related to a detection task. Each task has a set of parameters defining its execution and a summary of its completion. The logs capture details of each trial within the tasks.\n\nThe provided markdown content seems to represent a log or data dump from a task or experiment. It contains various parameters, task summaries, and logs of trials, including details such as stimulus types, onset times, reaction times, and response types.\n\nThe provided markdown content seems to be a series of logs and parameters related to a task or experiment involving stimuli, responses, and task summaries. The logs detail various trials with specific stimuli and responses, while the parameters define settings for the tasks.\n\nThe document contains various task parameters, task summaries, and logs related to certain trials. It includes details about task start times, durations, completion scores, integrity scores, and response types.\n\nThe provided markdown content seems to be a log of tasks and parameters related to a series of trials. It includes task summaries, parameters, and logs detailing the rounds, trials, stimulus details, types, onset times, log times, reaction times, response details, and response types.\n\nExample screenshot:\n\nStep 3: Click on the “Run Full” button to initiate the test.\n\nExample screenshot: Step 3: Click on the “Run Full” button to initiate the test.",
+  "qa_pairs": [
+    {
+      "question": "Please provide an organization chart of the organization.",
+      "answer": "Please see the attached organization chart of Cogstate.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the number of staff (n and FTE) of the organization?",
+      "answer": "Cogstate has 187 FTE employees. Please see the attached organization chart for reference.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "How long has your company been in business?",
+      "answer": "Cogstate has been in business for 23 years.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "In what industry(ies) does your company focus its resources?",
+      "answer": "Cogstate is focused on delivering validated, sensitive, rapid, and reliable computerized cognitive tests to clinical trial teams, to provide valuable insight regarding drug related changes in cognition.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "How long has the product of interest been on the market?",
+      "answer": "Cogstate Cognitive Assessments have been available since 1999.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What (kind of) companies are using the product of interest?",
+      "answer": "Cogstate products and services are used by a variety of biotechnology and pharmaceutical companies.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company have any certifications (such as ISO)?",
+      "answer": "No, Cogstate does not hold any certifications or licenses to operate. However, Cogstate is HIPAA-compliant with regards to health information and confidentiality requirements. Cogstate’s systems are also compliant to ISO 9001, 21 CFR Part 11 and Eudralex Vol. 4, Annex 11.",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is there an overall program to ensure the software quality?",
+      "answer": "Yes, Cogstate has a dedicated program and department to ensure software quality.",
+      "domain": "Quality Assurance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the program include a software life cycle, testing practices, documentation requirements and responsibilities?",
+      "answer": "Yes, Cogstate’s systems and programs are developed using Agile methodology. All testing practices and documentation requirements are strictly adhered to.",
+      "domain": "Quality Assurance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is the quality organization independent from the development organization?",
+      "answer": "Yes, The Cogstate Quality Assurance team is separate from the software development organization.",
+      "domain": "Quality Assurance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does Quality Assurance have a role in the system life cycle – especially in testing and system release?",
+      "answer": "Yes, Cogstate uses our in-house Quality Assurance team, which has a key role in the system life cycle, including testing and system release.",
+      "domain": "Quality Assurance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the Quality group perform periodic audits of system quality, documentation and procedural compliance?",
+      "answer": "Yes, the Quality Assurance group performs internal audits on a regular basis. Internal audits are performed on each operational process.",
+      "domain": "Quality Assurance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the Quality group perform periodic audits of system quality, documentation and procedural compliance?",
+      "answer": "Yes, the Quality Assurance group performs internal audits on a regular basis. Internal audits are performed on each operational process in a two-year cycle. All observations and findings are tracked to resolution. Major non-conformances are escalated to senior management team and discussed during routine management meetings.",
+      "domain": "Quality Assurance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is there a formal system/software life cycle?",
+      "answer": "Yes, Cogstate’s new platform is developed per Agile methodology.",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are detailed functional requirements available to clearly define what the system does? Are requirements approved? Are changes in requirements approved?",
+      "answer": "Yes, all functional requirements are available to clearly able to define what the system does. All changes are controlled and approved. Change management software tools such as Jira and ServiceNow are used.",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are there adequate, independent quality assurance assessments throughout the software development process?",
+      "answer": "Yes, all quality assurance assessments are performed regularly throughout the software development process. These assessments are independent but are performed in-house by Cogstate staff.",
+      "domain": "Quality Assurance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Do requirements include regulatory requirements (i.e, 21 CFR Part 11)?",
+      "answer": "Yes, requirements do include 21 CFR Part 11. Cogstate’s systems are compliant to both 21 CFR Part 11 and Eudralex Vol. 4, Annex 11.",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Has the system been validated?",
+      "answer": "Yes, the Cogstate system has been validated.",
+      "domain": "Validation",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are validation documents for the computerized system available and approved?",
+      "answer": "Yes, all validation documents for the computerized system are available and approved. This is managed by Cogstate’s QA team, who carries out the validation process which includes: SDLC; draft validation plan, review test runs and prepare validation report and traceability matrix.",
+      "domain": "Validation",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the system have up to date documentation, including data structures and flows, interactions with other systems, design & architecture?",
+      "answer": "Yes, the system maintains all current documentation, including data structures, data flows and interactions with other systems, design and architecture.",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is the documentation updated each time a change is made?",
+      "answer": "Yes, Cogstate uses a documented process which is tracked in Jira following our development, validation and maintenance, and version control procedures.",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is documentation managed using change control?",
+      "answer": "Yes, Cogstate's change control management follows a documented design control process which is tracked in Jira following our development, validation and maintenance and version control procedures.",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "What is the retention time period for all system related documentation?",
+      "answer": "All study related documentation is retained for a minimum of 15 years of per the customer request. When the retention period expires (internally and at the data center), the study project manager will contact the customer when it comes to the destruction. If the customer confirms that the archived study documentation and data can be destroyed as scheduled, QA securely destroys the study documentation/data after the minimum retention period.",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "How are paper records protected from loss? How are electronic records protected from loss?",
+      "answer": "Only approved documents/records are maintained in electronic format. Paper records are not used. Electronic records are protected from loss by using secure cloud storage on Box.",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "How are source code, programs, and configuration settings managed and protected? Who has access? Describe how the source code for a given release is controlled.",
+      "answer": "Source code, programs, and configurations are managed and protected in a standard code repository used by Software Engineers. Jira, TestRails, Ranorex, Box and Sharepoint are tools used for the following. When a version of the source code is changed, this version is required to be tagged appropriately.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are back-ups retained in a separated, secure location? Are back-ups retained for the duration required?",
+      "answer": "Yes, all backups are retained in the code repository and are required to be tagged appropriately.",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is there an adequate security system to prevent unauthorized modification of source code, builds, and distribution copies of software? What are the security measures?",
+      "answer": "Yes, Cogstate has multiple network security processes in place, such as network infrastructure redundancy, third-party monitoring and update configuring, firewalls for outbound traffic, corporate wireless restricted to only authorized employees with company devices, regular network scanning and segregation, and 24/7 network monitoring and alerting. Virus scanning is always scanning for known viruses and deep scans are performed daily. Anti-virus software receives updates from admin portal, which is set to push automatically when a new update/patch is available.",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are the development and manufacturing facilities adequately secured against unauthorized entry? Is there a documented authorization list? How is access authorized?",
+      "answer": "The system is not made in a manufacturing facility. To protect against unauthorized entry, Cogstate has multiple network security processes in place, such as network infrastructure redundancy, third-party monitoring and update configuring, firewalls for outbound traffic, corporate wireless restricted to only authorized employees with company devices, regular network scanning and segregation, and 24/7 network monitoring and alerting. Virus scanning is always scanning for known viruses and deep scans are performed daily. Anti-virus software receives updates from admin portal, which is set to push automatically when a new update/patch is available.",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is the system supported by approved procedures? Do procedures include disaster recovery, back up, maintenance (if hosted), information security, incident management, system change control, and configuration management?",
+      "answer": "Yes, the system supported by a variety of procedures including disaster recovery, back up, maintenance, information security, incident management, system change control, and configuration management.",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are procedures under change control?",
+      "answer": "Yes, all procedures are under change control.",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are the procedures periodically reviewed?",
+      "answer": "Yes, all procedures are periodically reviewed.",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is the system supported by approved procedures? Do procedures include disaster recovery, back up, maintenance (if hosted), information security, incident management, system change control, and configuration management?",
+      "answer": "Yes, the system is supported by a variety of procedures including disaster recovery, back up, maintenance, information security, incident management, system change control, and configuration management.",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is there a procedure to manage user access? If yes, are the users accounts checked yearly?",
+      "answer": "Yes, Access requests are handled differently depending upon type of access being requested. Access deactivation is also handled on a case by case basis.",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are system changes documented? Are system changes approved?",
+      "answer": "Yes, all system changes are documented and are required to go through an approval process.",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are changes evaluated for the degree of testing needed?",
+      "answer": "Yes, changes are continually monitored at specific points during the process.",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are configuration changes documented?",
+      "answer": "Yes, all configuration changes are documented.",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is system documentation updated when changes are made?",
+      "answer": "Yes. When changes are made to the system, all documentation is updated appropriately to reflect that.",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are users and support personnel retrained when changes are made?",
+      "answer": "Yes, when changes are made, all users and support personnel are retrained.",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the vendor utilize a maintenance/support agreement? If yes, what software product elements are maintained and supported?",
+      "answer": "Cogstate scopes all specific maintenance and support to be provided to clients throughout a study in the SOW. All elements of Cogstate products are maintained and supported, regardless of an existing agreement. If an update is to occur to the production environment, “software product elements”, the customer will be informed of the changes and any impacts to their study.",
+      "domain": "Support",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are prior releases adequately supported? How long are prior releases supported?",
+      "answer": "Releases are supported while they are live in a production environment.",
+      "domain": "Support",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is the vendor’s help desk support function for software and hardware adequate? What is the availability of the help desk?",
+      "answer": "The help desk is available via a phone call, an online support ticket, or via email.",
+      "domain": "Support",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is the vendor’s help desk support function for software and hardware adequate? What is the availability of the help desk?",
+      "answer": "The help desk is available via a phone call, an online support ticket, or via email to the project team. Cogstate's helpdesk is supported in English using a follow the sun method. Local dial-in numbers are available for Melbourne Australia, London England, New Haven Connecticut USA and web conferencing platforms. Helpdesk support is provided in English but can be provided in local languages at an additional cost. Additional local dial-ins can also be provided at an additional cost.",
+      "domain": "Support",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the documentation for new releases of the product provide enough information to allow the customer to determine the impact of every change in the release?",
+      "answer": "All hardware support is available via their other vendors. The customer will be provided with advanced notification or documentation of any planned system changes that impact the customer’s user interface or data for their study, with sufficient detail provided to understand the scope of those changes.",
+      "domain": "Support",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are system incidents documented? Are errors, bugs, and defects categorized by severity, urgency, and priority?",
+      "answer": "Yes, all system incidents are documented. Errors, bugs and any defects are managed based on priority.",
+      "domain": "Incident Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are records maintained of all known problems for each revision?",
+      "answer": "Yes, records are maintained for all known problems and for each revision.",
+      "domain": "Incident Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are system incidents evaluated to determine correction and prevention activities?",
+      "answer": "Yes, All non-conformances, observations, and recommendations are logged into JIRA and assigned to the auditees for actions. For major non-conformance, a CAPA report is required. For minor non-conformance, a non-conformance report is required. It is the responsibility of the auditors or designees to follow-up and ensure all non-conformances are effectively closed. Once corrective action/preventive action is completed and the CAPA report/Non-conformance report is signed-off, the JIRA ticket will be closed by QA.",
+      "domain": "Incident Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are system users made aware of critical system defects? How quickly?",
+      "answer": "Yes, system users will be made aware of critical system defects in a timely manner. Critical Issues have a high impact on business continuity and require immediate attention and resolution. This requires IT personnel and potentially external/vendor support. This is the highest priority level. Updates on these issues are every hour and resolution(s) should be same day.",
+      "domain": "Incident Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the vendor have an effective program for resolving documented defects?",
+      "answer": "Yes, Cogstate has a documented plan for resolving documented defects.",
+      "domain": "Incident Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is the system secured by unique user-ids and passwords?",
+      "answer": "Yes, the system is secured by unique user-ids and passwords.",
+      "domain": "Security",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are there controls to ensure that data can only be entered and changed by authorized personnel?",
+      "answer": "Yes, role-based access is enforced.",
+      "domain": "Security",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is access to high levels of access (e.g., Super User) restricted?",
+      "answer": "Yes, role-based access is enforced.",
+      "domain": "Security",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is critical data verified by a second person, or by a validated electronic method?",
+      "answer": "Yes, any critical data, including any final tables and listings are verified and double checked.",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is there an audit trail for critical data and activities?",
+      "answer": "Yes, an audit trail for all data and activities can be made available.",
+      "domain": "Audit Trails",
+      "type": "close-ended"
+    },
+    {
+      "question": "Can the audit trail be reviewed for irregularities?",
+      "answer": "Yes, an audit trail can be reviewed for irregularities.",
+      "domain": "Audit Trails",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the audit trail include user, date, time?",
+      "answer": "Yes, an audit trail includes the user ID, date and time stamp.",
+      "domain": "Audit Trails",
+      "type": "close-ended"
+    },
+    {
+      "question": "What is the status of the test T36203: Google Chrome: Standard Tests?",
+      "answer": "QA Verified",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the priority level of the test?",
+      "answer": "4 - Must Test",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "What are the preconditions required for the test?",
+      "answer": "Tester has access to a laptop with a minimum resolution of 1024 x 800, Laptop OS X 10 with Chrome Version 48+ browser, Active internet connection and access to the HTML5 Task Runner using the following link: https://cgst-qc-htm.azurewebsites.net/8.17.0/runner.html",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What are the steps involved in the test?",
+      "answer": "1. Open the HTML5 Test Runner using Google Chrome Version 48+ browser. 2. Please see the attached file \"Task Settings_Standard.docx\" with the preconfigured task settings for the HTML5 task runner. 3. The sessions for all tests will begin without error. 4. Use the configuration and initiate the test. 5. Verify that the instruction screens are displayed correctly as per specifications.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What should be verified in the test?",
+      "answer": "Verify that the instruction screens are displayed correctly as per specifications. Instructions displayed matches as per the HTML5 Instructions Specification.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the status of the test?",
+      "answer": "QA Verified",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "What are the preconditions for the test?",
+      "answer": "Tester has access to a laptop with a minimum resolution of 1024 x 800, Laptop OS X 10 with Chrome Version 48+ browser, Active internet connection and access to the HTML5 Task Runner using the link provided.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What browser version is required for the HTML5 Test Runner?",
+      "answer": "Google Chrome Version 48+",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "What should be verified during the test?",
+      "answer": "Verify that the instruction screens are displayed correctly as per specifications. Instructions displayed should match the HTML5 Instructions Specification. Pay attention to the visual and auditory feedback in each step.",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "What should be done upon completion of the test?",
+      "answer": "Save and attach the Raw Data file output.",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the code for the detection task?",
+      "answer": "StatusBar",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are response buttons shown during the task?",
+      "answer": "Yes",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "What is the style used for the task?",
+      "answer": "light",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the maximum time for the task?",
+      "answer": "3600000",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is audio feedback enabled?",
+      "answer": "Yes",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "What is the stimulus type used in the trials?",
+      "answer": "Probe",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the code for the parameters?",
+      "answer": "StatusBar, DetectionInstructionsReal, DetectionAdultDemo, DetectionAdultReal",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the minimum onset time for the DetectionAdultDemo task?",
+      "answer": "500",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the maximum reaction time allowed?",
+      "answer": "3500",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are response buttons enabled?",
+      "answer": "Yes",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "What is the task version?",
+      "answer": "Adult",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the response type for trial 1 in round 1?",
+      "answer": "TrueNegative",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "What is the task start time for group 5?",
+      "answer": "216233",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the completion score for the task in group 6, position 0?",
+      "answer": "1",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "What is the reaction time for trial 2 in round 1?",
+      "answer": "2233",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the stimulus type for trial 6 in round 1?",
+      "answer": "Probe",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the purpose of the StatusBar code?",
+      "answer": "The StatusBar code is used for custom phase instructions and does not show the progress percentage.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the maximum time for ProgressInstructions1?",
+      "answer": "3600000",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "What does the 'show' attribute in ProgressInstructions1 represent?",
+      "answer": "It represents the progress graphic and its position.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the buttonText for the second set of ProgressInstructions1 parameters in the 'Adult' version?",
+      "answer": "repeat",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "What is the purpose of the DetectionAdultLearn1 code?",
+      "answer": "It is used for adult practice and learning with interactive feedback.",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the maximum number of trials for IdentificationAdultReal?",
+      "answer": "10",
+      "domain": "Technology",
+      "type": "close-ended"
+    }
+  ],
+  "meta_data": {
+    "company_name": "CHDR",
+    "date": "2022-01-28",
+    "category": "RFI",
+    "type": "PastResponse"
+  }
+}

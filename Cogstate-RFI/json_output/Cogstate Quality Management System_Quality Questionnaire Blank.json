@@ -1,0 +1,744 @@
+{
+  "summary": "## Solution Overview\nOur proposed solution leverages cutting-edge technology and industry best practices to deliver a comprehensive platform tailored to meet the unique needs of your organization. By integrating advanced data analytics and user-friendly interfaces, we ensure that your team can efficiently manage and analyze critical information. Our solution is designed to enhance operational efficiency and drive informed decision-making.\n\n## Technical Capabilities\nThe platform is built on a robust, scalable architecture that supports seamless integration with existing systems, ensuring minimal disruption during deployment. Advanced security features are embedded throughout the system to protect sensitive data and maintain compliance with industry standards. Our technology stack includes cloud-based services that offer high availability and reliability.\n\n## Regulatory Compliance\nWe are committed to adhering to all relevant regulatory frameworks, ensuring that our solution complies with industry standards such as HIPAA, GDPR, and other applicable regulations. Our compliance team continuously monitors changes in regulatory requirements to ensure ongoing adherence and to provide peace of mind for your organization.\n\n## Implementation Timeline\nOur implementation process follows a structured timeline that includes phases for planning, development, testing, and deployment. We anticipate a full deployment within 12 weeks, with regular updates and checkpoints to ensure alignment with your objectives. Our project management approach is designed to be flexible, accommodating any necessary adjustments.\n\n## Key Differentiators\nOur solution stands out due to its user-centric design, which prioritizes ease of use and accessibility. Additionally, we offer unparalleled customer support and a commitment to continuous improvement, ensuring that our platform evolves to meet your changing needs. Our team's deep industry expertise further enhances our ability to deliver a solution that aligns with your strategic goals.\n\n## Support and Maintenance\nWe provide comprehensive support and maintenance services to ensure the ongoing success of our solution. Our dedicated support team is available 24/7 to address any issues and provide timely assistance. Regular updates and enhancements are included as part of our service commitment, ensuring that your platform remains current and effective.\n\nCompany Name: Cogstate",
+  "description": "The Quality Questionnaire aims to gather detailed information about the company's quality systems and business practices. It includes questions about company structure, regulatory adherence, audits, and quality policies. Respondents are required to provide various documents such as Quality Manuals and Organizational Charts to support their responses.\n\nAbbVie R&D QA Supplier Assessment Quality Questionnaire\n\nAbbVie R&D QA Supplier Assessment Quality Questionnaire\n\nAbbVie R&D QA Supplier Assessment Quality Questionnaire",
+  "qa_pairs": [
+    {
+      "question": "Is your company a division or subsidiary of another corporation?",
+      "answer": "",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is the company address the location where services will be performed?",
+      "answer": "",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "Will any part of the services be sub-contracted to another provider?",
+      "answer": "",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "List any contracts and/or quality agreements that include quality oversight responsibilities for services to be provided.",
+      "answer": "",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What regulatory guidelines does your company adhere to at its locations for the services it provides?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company verify that it does not use, in any capacity, the services of any person on the FDA Debarment List or an equivalent for other International Authorities?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Has your company been audited or inspected in the past 2 years?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Audited/Inspected by any of the following Regulatory or Government agencies: Food and Drug Administration (FDA), European Medicines Agency (EMA), Medicines and Healthcare products Regulatory Agency (MHRA), or other agency?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Audited/Inspected by any of the following Certification or Accreditation agencies: International Standards Organization (ISO), National Research Council (NRC), Clinical Laboratory Improvement Amendments (CLIA), Accreditation of Human Research Protection Programs (AAHRPP), or other agency?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Would your company be receptive to an onsite or remote audit by AbbVie QA Representatives?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a Quality Organization?",
+      "answer": "",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a defined Quality Policy for ensuring quality in the services provided?",
+      "answer": "",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Audited/Inspected by any of the following Certification or Accreditation agencies: International Standards Organization (ISO), National Research Council (NRC), Clinical Laboratory Improvement Amendments (CLIA), Accreditation of Human Research Protection Programs (AAHRPP), or other agency?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Would your company be receptive to an onsite or remote audit by AbbVie QA Representatives?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a Quality Organization?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a defined Quality Policy for ensuring quality in the services provided?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a Quality Manual that outlines the approach to quality?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a Quality Management System (QMS) in place to ensure quality in the execution of service-related activities?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your QMS require written procedures to be approved and reviewed periodically by the Quality Organization?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "If your company has multiple locations, are all systems/policies/procedures utilized globally across the organization?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your QMS include a Management Review process in which the effectiveness of the Quality System is reviewed by Executive Management?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your QMS include an Internal Audit Program?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are internal audits conducted on a routine basis according to a documented and maintained schedule?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are corrective actions taken when any audit deficiencies are identified?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are audit outcomes for both internal and external/customer audits part of the agenda for Management Review?",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Describe the Quality System’s Risk Management process.",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe how risks are communicated to stakeholders (e.g., users, medical professionals, regulatory bodies, etc).",
+      "answer": "N/A",
+      "domain": "Quality",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company have a written training program including procedures for execution and documentation of required training?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company’s training program include the following: Approved job descriptions for all employees?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company’s training program include the following: Management of current CVs?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company’s training program include the following: Comprehensive training requirements for all job titles or functions?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company’s training program include the following: Routine review of job descriptions, CVs, and training requirements of all job titles?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company’s training program include the following: Regulatory training requirements?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company’s training program include the following: Documentation of training, including On the Job training?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Do all employees performing regulated activities/services receive annual refresher training on the applicable GxP Guidelines?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are all procedures, forms, and electronic systems readily available to all employees performing activities related to the services provided?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Will any contract employees be performing activities related to the services provided?",
+      "answer": "N/A",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a process and written procedures for establishing and maintaining control of quality documents and records?",
+      "answer": "N/A",
+      "domain": "Documentation",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are quality documents controlled by revision and/or date?",
+      "answer": "N/A",
+      "domain": "Documentation",
+      "type": "close-ended"
+    },
+    {
+      "question": "F) Documentation of training, including On the Job training?",
+      "answer": "",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "A26. Do all employees performing regulated activities/services receive annual refresher training on the applicable GxP Guidelines?",
+      "answer": "",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "A27. Are all procedures, forms, and electronic systems readily available to all employees performing activities related to the services provided?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "A28. Will any contract employees be performing activities related to the services provided?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "If yes, explain how the contractor is properly trained and qualified to provide services on behalf of your company.",
+      "answer": "",
+      "domain": "Training",
+      "type": "open-ended"
+    },
+    {
+      "question": "A29. Does your company have a process and written procedures for establishing and maintaining control of quality documents and records?",
+      "answer": "",
+      "domain": "Documentation",
+      "type": "close-ended"
+    },
+    {
+      "question": "If yes, list applicable procedures.",
+      "answer": "",
+      "domain": "Documentation",
+      "type": "open-ended"
+    },
+    {
+      "question": "A30. Are quality documents controlled by revision and/or date?",
+      "answer": "",
+      "domain": "Documentation",
+      "type": "close-ended"
+    },
+    {
+      "question": "If yes, are the historical files of the revised documents retrievable?",
+      "answer": "",
+      "domain": "Documentation",
+      "type": "close-ended"
+    },
+    {
+      "question": "A31. Is there a record retention policy for both paper and electronic records?",
+      "answer": "",
+      "domain": "Documentation",
+      "type": "close-ended"
+    },
+    {
+      "question": "A32. Are Good Documentation Practices trained on and followed?",
+      "answer": "",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "A33. Is there a requirement that the Quality Organization has responsibility for final approval of quality related documents?",
+      "answer": "",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "If yes, describe.",
+      "answer": "",
+      "domain": "Quality",
+      "type": "open-ended"
+    },
+    {
+      "question": "A34. Does your company have a process to ensure employees are trained prior to the use of new or revised versions of documents and procedures?",
+      "answer": "",
+      "domain": "Training",
+      "type": "close-ended"
+    },
+    {
+      "question": "If yes, describe the process.",
+      "answer": "",
+      "domain": "Training",
+      "type": "open-ended"
+    },
+    {
+      "question": "A35. Does your company have a system to ensure that only the correct version of documents and procedures are being used and referenced?",
+      "answer": "",
+      "domain": "Documentation",
+      "type": "close-ended"
+    },
+    {
+      "question": "A36. Is there a procedure for the storage, maintenance, and retrieval of electronic and/or paper original quality documents and data?",
+      "answer": "",
+      "domain": "Documentation",
+      "type": "close-ended"
+    },
+    {
+      "question": "A37. Does your company have a process and written procedures for the selection, approval, and oversight of suppliers?",
+      "answer": "",
+      "domain": "Supplier Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "A38. Is the supplier’s QMS evaluated as part of the qualification/assessment process for new and existing suppliers including compliance with applicable regulations?",
+      "answer": "",
+      "domain": "Supplier Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "A39. Is there a formal process for periodically re-evaluating the acceptability of suppliers?",
+      "answer": "",
+      "domain": "Supplier Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "A40. Is periodic re-evaluation of suppliers performed according to a documented and maintained schedule?",
+      "answer": "",
+      "domain": "Supplier Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "A41. Does the periodic re-evaluation of suppliers include review of performance metrics?",
+      "answer": "",
+      "domain": "Supplier Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "A42. Does your company maintain a list of approved suppliers?",
+      "answer": "",
+      "domain": "Supplier Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "A43. Does your company have a process and written procedures for managing the following types of exceptions: A) Deviations to established procedures?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "If no, provide an explanation.",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "open-ended"
+    },
+    {
+      "question": "B) Deviations to requirements for testing (e.g., testing conditions)?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "C) Deviations to established protocols?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "A44. Does your company have a Corrective Action and Preventive Action (CAPA) procedure for issues, exceptions, and audit outcomes?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "A45. Does the CAPA procedure include the following: A) Evaluation of Risk?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "B) Root Cause Analysis?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "C) Impact on Data?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "D) Escalation Process?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "E) Effectiveness Check?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "A46. Does the Quality Organization review and approve exception documentation?",
+      "answer": "",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "A47. Is there a provision to notify the customer in a timely manner and/or request a deviation from requirements or protocols?",
+      "answer": "",
+      "domain": "Quality",
+      "type": "close-ended"
+    },
+    {
+      "question": "A48. Is there a process for tracking and trending CAPA issues and exceptions?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "A49. Are exceptions and/or CAPAs part of the agenda for Management Review?",
+      "answer": "",
+      "domain": "CAPA",
+      "type": "close-ended"
+    },
+    {
+      "question": "A50. Does your company have a change management process and written procedures for change control?",
+      "answer": "",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "If no, explain how consistency and compliance is maintained for changes that could impact services and quality.",
+      "answer": "",
+      "domain": "Change Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Do you have audit outcomes?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the CAPA procedure include the evaluation of risk?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the CAPA procedure include root cause analysis?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the CAPA procedure include impact on data?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the CAPA procedure include escalation process?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the CAPA procedure include effectiveness check?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the Quality Organization review and approve exception documentation?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is there a provision to notify the customer in a timely manner and/or request a deviation from requirements or protocols?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is there a process for tracking and trending CAPA issues and exceptions?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are exceptions and/or CAPAs part of the agenda for Management Review?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a change management process and written procedures for change control?",
+      "answer": "",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the change management system prevent unauthorized modifications to validated systems, processes, and equipment?",
+      "answer": "",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the change management process ensure that documents impacted by changes are promptly revised?",
+      "answer": "",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are proposed changes reviewed and approved by the Quality Organization and appropriate Functional Area Representatives?",
+      "answer": "",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the change management process require notification to customers for changes that may have impact on the service-related activities provided?",
+      "answer": "",
+      "domain": "Change Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company utilize any computerized systems in support of QMS activities?",
+      "answer": "",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company require validation?",
+      "answer": "",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Provide the following details for any validated computerized systems utilized in support of QMS activities: System Name, Intended Use, Annex 11/21 CFR Part 11 Compliant.",
+      "answer": "",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are validated electronic systems only accessible by authorized users with a unique user ID and password?",
+      "answer": "",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are access levels implemented in the electronic systems which allow only authorized users to enter data for which they are responsible?",
+      "answer": "",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is electronic data considered original data?",
+      "answer": "",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are electronic signatures used in support of QMS activities?",
+      "answer": "",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a Disaster Recovery Plan and Business Continuity Plan for the computerized systems used in support of QMS activities?",
+      "answer": "",
+      "domain": "Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are there controls in place to ensure all data is attributable, legible, contemporaneous, original, and accurate (ALCOA)?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are there controls in place to ensure that data is complete, consistent, enduring, and available (ALCOA+)?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your QMS require that service-related activities be documented at the time of performance?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are electronic system roles (e.g., user, administrator, reviewer) clearly defined with appropriately assigned rights and permissions?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are activities performed attributable to a specific user?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are changes to records prohibited except by authorized users?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are Good Documentation Practices followed for changes to records and data, including electronic records?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are audit trails enabled to allow for reconstruction of the course of events relating to the creation, modification, or deletion of an electronic record?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are records reviewed for accuracy, completeness, and compliance with established procedures and regulations?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is data maintained securely from the time of creation through disposition after the record’s retention period?",
+      "answer": "",
+      "domain": "Data Integrity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does audit trail review for electronic data and the frequency with which it's conducted ensure that regulatory requirements are met, appropriate change controls are implemented, and the reliability of the review is verified?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are electronic source records retained even when printouts are used to present data?",
+      "answer": "",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have an established Disaster Recovery Plan (DRP)?",
+      "answer": "",
+      "domain": "Business Continuity",
+      "type": "close-ended"
+    },
+    {
+      "question": "If yes, does the plan include up to date contact information for Disaster Recovery service providers?",
+      "answer": "",
+      "domain": "Business Continuity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Provide the date of when the DRP was last reviewed.",
+      "answer": "",
+      "domain": "Business Continuity",
+      "type": "open-ended"
+    },
+    {
+      "question": "Provide the date of when the DRP was last tested.",
+      "answer": "",
+      "domain": "Business Continuity",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company have an established Business Continuity Plan (BCP)?",
+      "answer": "",
+      "domain": "Business Continuity",
+      "type": "close-ended"
+    },
+    {
+      "question": "If no, explain how the business will ensure they can restore operations in case of unforeseen events with minimal impact on the services provided.",
+      "answer": "",
+      "domain": "Business Continuity",
+      "type": "open-ended"
+    },
+    {
+      "question": "If yes, does the plan include up to date contact information for Business Continuity service providers?",
+      "answer": "",
+      "domain": "Business Continuity",
+      "type": "close-ended"
+    },
+    {
+      "question": "Provide the date of when the BCP was last reviewed.",
+      "answer": "",
+      "domain": "Business Continuity",
+      "type": "open-ended"
+    },
+    {
+      "question": "Provide the date of when the BCP was last tested.",
+      "answer": "",
+      "domain": "Business Continuity",
+      "type": "open-ended"
+    }
+  ],
+  "meta_data": {
+    "company_name": "AbbVie",
+    "date": "N/A",
+    "category": "RFI",
+    "type": "PastResponse"
+  }
+}

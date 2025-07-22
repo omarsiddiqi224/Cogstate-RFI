@@ -1,0 +1,447 @@
+To optimize the use of CROs by academia and early-stage companies, the ADDF has partnered with [Science Exchange](https://www.scienceexchange.com/) to launch the ADDF ACCESS program. [ADDF ACCESS](http://alzdiscovery.org/addf-access) provides an online marketplace of vetted service providers and educational resources. In our efforts to understand your company’s capabilities and to accurately highlight these to our scientific community, we would appreciate your time in answering the following questions.
+
+Please note: These questions are for internal use as part of our due diligence process.
+
+For questions, please contact Lfriedman@AlzDiscovery.org.
+
+**Date:**
+
+**Name of company**: *Cogstate, Ltd.*
+
+**Name of contact**: Lammert Albers
+
+**Location:** 195 Church St, Level 4, New Haven, 06510, CT, USA
+
+**Website:** www.cogstate.com
+
+**Q1. How did you hear about ACCESS?**
+
+Cogstate learned about ACCESS through the Science Exchange website.
+
+**Q2. What is the CRO clientele break down?**
+
+Large Pharma or Biotech: 60%
+Small to mid-size pharma or biotech 40%
+Academic sponsors: Cogstate technology is utilized in hundreds of academic trials across many indications, and is to qualifying non-commercial trials at little or no cost to the researcher. This reflects the value that Cogstate places on contributing to and participating in ongoing academic studies and public-private partnerships.
+
+US 70% Europe 20% Other 10%
+
+**Q3. What is the company structure? Public/private? Subsidiary of a parent or holding company?**
+
+Cogstate is publicly traded on the Australian stock exchange (ASX) under ticker CGS. The Cogstate Group comprises Cogstate Ltd and six subsidiaries that are directly or indirectly all wholly owned:
+
+* Cogstate Ltd: founded in 1999 and listed on the Australian Stock Exchange in February 2004;
+* Cogstate Inc: incorporated in 2006 and wholly owned by Cogstate Ltd, Cogstate Inc. employs USA based staff, except those employed by Cogstate Healthcare LLC;
+* Cogstate Health Inc (formerly Cogstate Sport Inc): incorporated in 2010 and wholly owned by Cogstate Inc to make the investment in Cogstate Sport LLC;
+* Cogstate Healthcare LLC (formerly Cogstate Sport LLC): the remaining 50% of Axon Sports LLC was acquired by Cogstate Healthcare LLC (formerly Cogstate Sport Inc) in August 2011, making it a wholly owned subsidiary of Cogstate Health Inc;
+* Cogstate Sports Pty Ltd (formerly Axon Sports Pty Ltd): incorporated in 2011 and wholly owned by Cogstate Ltd to sell the concussion management technology in Australia;
+* Cogstate Canada Inc: incorporated in 2012 and wholly owned by Cogstate Ltd to market COGNIGRAM in Canada; and
+* Cogstate Spain SL: incorporated in 2013 and wholly owned by Cogstate Ltd.
+
+**Q4. What is the company size (by revenue, by staff) and number of sites? Which site is the head quarter?**
+
+Cogstate Clinical Trials Revenue totaled A$34.7 million for the financial year to 30 June 2017.
+
+Cogstate headcount totals over 275 staff:
+
+* >175 full-time employees
+* >100 consultant neuropsychologists who provide in-language local rater support in 30 countries
+
+Cogstate has 5 primary offices in the following locations:
+
+* Melbourne, Australia (corporate headquarters)
+* New Haven, CT, USA (operational headquarters)
+* New York, NY, USA
+* Boston, MA, USA
+* London, UK
+
+**Q5. How many years in operation? Were there any recent mergers, acquisitions or name changes (<5 years)?**
+
+Cogstate has been in operation for over 18 years -- was founded in 1999 and went public on the Australian Securities Exchange in 2004 (ASX.CGS). All growth has been organic, and there have been no mergers, acquisitions or name changes.
+
+**Q6. What % of technical staff have PhDs and what is the average length of industry experience?**
+
+100% of Cogstate’s scientific leadership holds PhDs; as well as all members of our 100-person global network of expert neuropsychologist consultants. Further, 40% of Cogstate’s entire global staff hold advanced degrees.
+
+**Q7. What are the average staff turnover rates? If higher than 15% p.a., why?**
+
+The average monthly turnover for full-time employees from 1 Jul 2016 to 1 Jul 2017 is 1.4%
+
+**Q8. Where does the CRO recruit their technical staff?**
+
+Cogstate works with internal HR & Talent Acquisition Manager to recruit technical staff by sourcing candidates on major job boards such as Indeed, LinkedIn, Glassdoor among others. Academic collaborations, including an internship program with Yale University, are also an important source of recruitment. And outside specialty life science recruiting agencies are utilized for strategic, time sensitive or hard to fill positions.
+
+**Q9. Is there appropriate training documentation for all scientific staff? Is this accessible by sponsors?**
+
+Yes
+
+**Q10. What is the experience of leadership in the company? i.e. lead medicinal chemist?**
+
+Cogstate has an exceptionally experienced leadership team, including:
+
+Brad O’Connor, Chief Executive Officer
+
+Brad has been Managing Director and Chief Executive Officer of Cogstate Limited since December 2005. Brad has responsibility for Cogstate’s overall strategic direction and day-to-day operations as well as development of expansion opportunities outside of the core clinical trials business. Brad is also a director of Cogstate Inc. and Cogstate Sport Inc. Prior to taking the position of CEO at Cogstate, Brad joined Cogstate as Chief Financial Officer and Company Secretary in May 2004. Prior to that, Brad held senior positions at Spherion Group, Australian Wine Exchange and PricewaterhouseCoopers. Brad is a chartered accountant who holds a Bachelor of Business degree.
+
+Paul Maruff, Chief Scientific Officer
+
+Professor Maruff is one of the founders of Cogstate. He is a neuropsychologist with expertise in the identification and measurement of subtle behavioral and cognitive dysfunction. Paul’s research integrates conventional and computerized neuropsychological testing with cognitive neuroscientific methods to guide decision making in drug development and in clinical medicine.He has worked extensively on method to identify subtle neurocognitive impairment, and to assess the efficacy of pharmacological treatment, in Alzheimer’s disease, mild cognitive impairment and the HIV dementia complex. He has extended this approach to identify cognitive dysfunction, and monitor treatment efficacy in psychiatric diseases such as schizophrenia, obsessive-compulsive disorder and depression in adults, and attention deficit disorder, developmental dyspraxia and substance abuse in children.
+
+Paul remains an active researcher. He is appointed Professor at the Florey Institute for Neuroscience and Mental Health. He is currently clinical co-chair of the Australian Imaging Biomakers and Lifestyle (AIBL) study. Paul has published over 250 research articles in international peer-reviewed scientific journals, and has co-authored 10 book chapters.
+
+George Hunnewell, Chief Operating Officer and President, Clinical Trials
+
+George is an accomplished senior executive with more than 25 years of experience growing clinical research and healthcare technology businesses. He brings deep general management expertise including sales and marketing, operations, finance, and mergers and acquisitions.As Chief Operating Officer and President of Cogstate’s Clinical Trials division, George is responsible for worldwide operations including Regulatory & Quality Assurance, Product Development, Human Resources, as well as full P&L responsibility for the Clinical Trials business. George previously served as Corporate Vice President, Clinical Research Services for Parexel International Corporation,  and he earned an AB in Mechanical Engineering from Harvard University and an MBA from MIT Sloan School of Management.
+
+Frank Cheng, President, Healthcare
+
+Frank is a medical technology industry executive with general management experience with both established industry leaders and venture-backed companies.As President of Cogstate’s Healthcare Business, Frank is responsible for all aspects of commercializing Cogstate technologies in the healthcare marketplace.  For this role, Frank utilizes his deep experience in building and growing new businesses in key worldwide markets (United States, the European Union, Canada, China and Japan) through achieving regulatory clearance, reimbursement approval and commercialization build-up.
+
+Frank most recently served as Senior Vice President, Worldwide Marketing & Business Development at cardiac robotic innovator Stereotaxis Inc., where he led the company’s marketing, business development, training, clinical research, operations, as well as Asia P&L. His previous experience includes general management roles at GE Healthcare and Roche Diagnostics. Frank holds a BBA in International Finance from Wuhan University in China and an MBA from Vanderbilt University.
+
+Lammert Albers, Chief Commercial Officer
+
+Lammert is a business development executive with more than 15 years experience in the Life Science and Healthcare industries, driving global commercial strategies for leading clinical research organizations from discovery through post-marketing clinical trials.As Chief Commercial Officer at Cogstate, Lammert is responsible for driving growth and strategic relationships for Cogstate’s Clinical Trials business, leading marketing, proposals and business development functions globally.
+
+Lammert comes to Cogstate from PRA Health Sciences, having served as Vice President of Global Business Development and Engagement Partner, where he lead cross-divisional commercial teams. Lammert also held the role of Vice President Global Business Development and Strategic Relationships at MDS Pharma Services (later Clearstone Central Laboratories), as well as commercial and scientific roles with Genaissance Pharmaceuticals, Anachem Ltd and AstraZeneca.
+
+Richard Gleeson, Chief Technology Officer
+
+With a 20-year career of building and deploying technologies for healthcare and life science industries, Richard Gleeson brings deep expertise in high-impact innovations for the collection, analysis, management and integration of clinical trial data. As Cogstate’s Chief Technology Officer, Richard is responsible for providing the vision and leadership for technology initiatives to simplify the measurement of cognition. Prior to joining Cogstate, Rich served as Vice President, Global Solution Delivery at PAREXEL Informatics, where he was responsible for the pre-sales, deployment and operations of their Clinical Trial Management, Electronic Data Capture, MyTrials Portal, and Analytics and Integration Platform. Previously, Rich was Vice President at Doctor Evidence, a Health Economics and Outcomes Research company and served as Senior Business Strategy Consultant at Microsoft, working with large enterprise customers from top 25 life science companies. Rich earned a BA in Physics from Cal Poly and an MBA from Temple University’s Fox School of Business.
+
+**Q11. What are the CRO's core capabilities? Describe core assays/models/expertise relevant to Alzheimer's. Please check major service categories and services/assays at the end of the questionnaire**
+
+Cogstate is a leading cognitive science company focused on optimizing the measurement of cognition to guide decision-making in clinical trials. From rapid, reliable and highly sensitive computerised cognitive tests to expert support for traditional neuropsychological assessments, we’re dedicated to ensuring higher quality outcome measures of cognition. Cogstate clients include the world’s leading biopharmaceutical companies; military and elite sporting organizations; physicians and patients; renowned academic institutions and public-private partnerships. With more than 270 employees, including a global network of expert neuropsychologist consultants across 30 countries, the unique intersection of science, innovation and delivery is at the core of everything we do.
+
+* **COMPUTERIZED ASSESSMENT - RAPID, RELIABLE AND SENSITIVE**
+  + Cogstate’s computerized tests have been used to assess cognition in more than **1,200 trials across academic and clinical research, spanning 45 countries and 91 languages.** Each Cogstate test provides rapid, sensitive and valid measurement of distinct cognitive functions; grouped into customizable batteries for a more complete and nuanced picture of a subject’s cognitive state. Cogstate tests are culture and education-neutral and designed for repeated administration with minimal practice or learning effects, making them ideal for use in clinical trials.
+  + **Full service solution including: Scientific Consulting, Training and Certification, Data Management and Review, Statistical Analysis, Regulatory Support**
+  + **For an overview of each test, please visit: https://www.cogstate.com/cognitive-tests/**
+* **SCALES MANAGEMENT, RATER TRAINING & CENTRAL MONITORING SOLUTIONS**
+  + The Cogstate Clinical Trials team has demonstrated expertise and experience in the selection, acquisition, training, monitoring, analyses and reporting of cognitive scales that are used commonly in Alzheimer’s disease clinical trials.
+
+**Q12. Which major category does the CRO belong to?**
+
+Specialty/Niche CRO (incl. medicinal chemistry)
+ Preclinical CRO (GLP)
+ Clinical CRO (GCP)
+ CMO (GMP)
+ Full service CRO (discovery through clinical)
+ Other: Cognitive science company (computerized cognitive testing, rater training, monitoring and eCOA)
+
+**Q13. What development stages does the CRO support?**
+
+Target ID  Assay Development  Screening & Hit Selection  Lead Optimization  Candidate Selection
+ IND-enabling  Clinical Phase 0  Clinical Phase 1  Clinical Phase 2  Clinical Phase 3  NDA
+ Clinical Phase 4  Commercial
+
+**Q14. If the CRO has multiple disease specialties and core capabilities, how often are they contracted and performed**
+
+**by scientific staff? (What experience does the CRO have with central nervous system diseases and Alzheimer's drug discovery specifically?)**
+
+Cogstate solutions have been used in **over 90 Alzheimer’s disease clinical trails**, guiding decision-making for cognitive safety and efficacy across many indications and all phases of development. Our range of Alzheimer’s disease clinical trials experience includes all phases of development for
+
+* Pre-clinical Alzheimer's disease (AD)
+* Prodromal AD/Mild cognitive impairment (MCI)
+* Early AD
+
+**Q15. Can the CRO provide a summary of facilities, equipment and staff, e.g. in form of a PDF brochure or presentation?**
+
+Yes
+
+**Q16. Does the CRO offer flexibility in experimental design and project execution?**
+
+Yes
+
+**Q17. If applicable, does the CRO provide clearly defined controls, and validation data for assays and/or animal models to be used? Is any of this published?**
+
+Cogstate has developed computerized cognitive tests to dramatically increase the sensitivity and specificity of the measurement of human cognitive processes. Cogstate’s tests are rapid and reliable, and most importantly, have demonstrated sensitivity to subtle drug related changes in cognition. They have been designed, developed and validated to withstand the numerous operational challenges of conducting clinical trials, such as testing patient groups with unique characteristics, working with sites in countries or cultures with limited experience with cognitive testing and protocol schedules where there is often limited time available for assessment.
+
+Cogstate tests have consistently demonstrated sensitivity to both the facilitatory effects of cognitive enhancers and to the negative effects of sedative drugs in healthy humans, as well as sensitivity to the effects of drugs used to treat dementia in Alzheimer’s disease and cognitive impairment in schizophrenia, depression and ADHD. The scientific rationale and support for the validity, reliability and sensitivity to drug effects in clinical trials has been detailed in [hundreds of publications](https://cogstate.com/publication/).
+
+**Q18. Does the CRO offer GxP compliant services? Please check applicable:**
+
+🞏 GLP 🞏 GMP 🗹 GCP
+
+**Q19: If the CRO provides GLP/GMP/GCP compliant services, when was the last inspection by a regulatory agency? By which agency? Where there any findings or 483’s issued?**
+
+**Q20. How frequently do you communicate with the client over the project lifetime? Is this clearly established at the outset? Can bench scientists be contacted directly by the client or is there a general project manager?**
+
+We are in constant communication and very responsive. We work in collaboration with the sponsor on a communication that details the style and expected frequency of communications, as well as listing escalation points of contact. The Cogstate Team responds to most inquiries within 1 business day. Normally, communications do flow through the Project Manager assigned to the project, who then ensure the appropriate team members are involved; but our scientists also interact directly with sponsors during many stages of the study from initial consulting and protocol design, through to final statistical analysis.
+
+**Q21. Does the CRO encourage/welcome clients to visit the company location for an on-site visit?**
+
+Yes, always are happy to host clients at any of our locations.
+
+**Q22. Do you provide a clear project schedule, including scientific milestones, confidentiality and IP information, detailed/itemized/staged quotes and payment schedule?**
+
+The Project Manager provides project schedules including pertinent milestones and deliverables. The payment schedule is referenced with an executed contract, but the PM can provide additional information.
+
+**Q23. Does the CRO provide fixed fee-for-service, full-time equivalent or riREMOVEDsharing pricing structure? (If applicable)**
+
+Cogstate’s pricing structure is a combination of fixed fee and deliverable based services, as well as licensing models for certain software platforms and content.
+
+**Q24. How is data input accessed, tracked, transferred, managed and stored? Is sponsor and compound-identifying information anonymized in the lab and storage?**
+
+For computerized cognitive testing, all testing sessions are **automatically** recorded on the iPad or laptop device and test results are saved locally as encrypted files. The test supervisor will initiate an automatic transfer of study data from the iPad to the DataPoint system via a wireless (preferably Wi-Fi) internet connection. DataPoint is Cogstate’s secure online portal, enabling efficient data collection and storage for ongoing review of data quality by our expert data management team
+
+The Cogstate monitoring process has been designed to enable central monitoring of all data, to identify and address performance issues at the subject or test supervisor level. This monitoring process is also required to identify and resolve all data discrepancies created by site users, and thereby ensure the highest quality of data collection.
+
+The Cogstate system meets all relevant regulatory requirements for security and integrity of data in clinical trials, including 21 CFR Part 11; and all support procedures meet GCP guidelines.
+
+**Q25. How is data analyzed and reported? Do sponsors have access to all data?**
+
+The DataPoint system allows site staff and sponsor monitors or CRAs to perform efficient, central monitoring of compliance to data transfer procedures. Additionally, the DataPoint system provides information on data discrepancies, which enables CRAs to support Cogstate in the querying and cleaning process.
+
+The Cogstate Data Manager will discuss and agree with the sponsor on the format of data to be transferred, the schedule of transfers, the quality checks to be performed, and the process for query resolution. These details will be reflected in a data management plan.
+
+Cogstate will provide interim “unclean” data transfers at agreed upon intervals. Prior to any live data transfers, Cogstate will provide a test data transfer to confirm file formats. At the end of the study, upon confirmation that all data has been uploaded and verified and that there are no outstanding discrepancies, Cogstate will initiate the database lock process. Cogstate will send the final data transfer within 3 business days of resolution of the last query.
+
+**Q26. What practical measures are in place to ensure that the project runs smoothly over its lifetime? For example, are there standard measures for safely transporting and storing the compound/drug candidate? Are there alarms and back-ups for freezers in the event of a power outage?**
+
+Our involvement is focused on the oversight and management of our cognitive testing technologies and rater training services. Cogstate has supported over 1,500 studies with a full service offering for cognitive endpoints including a comprehensive quality management systems and standard operating procedures, as well as business continuity and disaster recovery plans. The Cogstate® system meets all relevant regulatory requirements for security and integrity of data in clinical trials, including 21 CFR Part 11, and the support procedures meet GCP guidelines.
+
+**Q27. Does the CRO have any previous or standing relationships with other non-profits?**
+
+**In addition to hundreds of academic insitutions Cosgtate has supported with computerized cognitive testing, Cogstate is proud to be involved in the measurement of cognitive function for several long-term, landmark public-private partnership studies in the area of Alzheimer’s disease, including:**
+
+* DIAN Observational Study
+* DIAN TU Study
+* AIBL Study
+* ADNI 2 Study
+* A4 Study
+* GAP Foundation
+
+**Q28. Are you interested in being listed in ADDF ACCESS (if not already part of ACCESS)? Are you willing to provide discounts to ADDF referred investigators?**
+
+Yes, Cogstate are interested in being listed in ADDF ACCESS.
+
+**Q29. What key information on your services should be listed on the ACCESS site? If applicable, include Alzheimer’s Disease related assays/models**
+
+Cogstate ensures higher fidelity measures in Alzheimer’s disease clinical trials through:
+
+• Rater Training, Certification & Central Monitoring
+
+• Tablet-based eSource
+
+• Scientific Consulting
+
+• Computerized Cognitive Assessment
+
+Cogstate’s approach to rater training is focused on improving the quality and efficiency of CNS clinical trials while ensuring on-time study start-up and minimizing rater burden. Cogstate’s senior scientific leadership, all neuropsychologists, work together with adult-learning experts to apply their extensive experience in reducing errors in global CNS clinical trials. Our depth of operational expertise, and dynamic relationships among science, operations and technology allows us to deliver exemplary service and novel innovations for the support of rater training and central monitoring programs.
+
+Cogstate’s computerized test batteries have been used to sensitively measure cognition in more than 1,500 trials across academic and clinical research––guiding decision-making for cognitive safety and efficacy across many indications and all phases of development. Cogstate tests can be rapidly set-up across all sites in a matter of weeks. The tests are the briefest available and do not require expert neuropsychologist raters–simplifying and standardizing test administration. Our algorithms automate outcome measures and data is rapidly available for review via our secure web-based portal for faster, more informed decision-making.
+
+Cogstate’s computerized battery of rapid, reliable, simple and sensitive tasks measures the cognitive domains affected by MCI and AD, namely processing speed, attention, verbal and visual learning, working memory, visual motor and executive function.
+
+The construct validity of each test for cognitive impairment in MCI and AD as well as the sensitivity of these tests to change in cognition has been demonstrated in the scientific literature. The tests have also been shown to be valid for use in different cultures and language groups with comparative/normative data available for both clinical samples and healthy controls. Study teams wishing to measure all or a subset of these domains can choose the tests that best suit their specific research questions. Each of the tests have been utilized previously in drug trials and maintain excellent reliability across repeated testing and cross-sectional research designs.
+
+For more information about the Cogstate AD Battery, please visit: https://www.cogstate.com/featured-batteries/cogstate-alzheimers-battery/
+
+**Q30. Can you provide references/testimonials?**
+
+Yes, upon request and prior to study contract execution, Cogstate can provide references. Testimonials from our quarterly Net promoter Score survey are also featured on the home page of our website at www.Cogstate.com.
+
+**Q31. Who is the best person at the company for us to refer people to? Please provide full contact information.**
+
+**For Clinical Trials:**
+
+Lammert Albers
+
+Chief Commercial Officer
+
+C: (USA) +1 203 464 7048
+
+P: (USA) +1 203 773 5010
+
+E: lalbers@cogstate.com
+
+**For Academic Research:**
+
+Tanya O’connor (Chenhall)
+
+Director, Research And Development
+
+P: (AUST) +61 432 518 207
+
+P: (USA) +1 203 535 2318
+
+E: toconnor@cogstate.com
+
+**Q32: Service Categories and Assays/Services. Please check applicable items and add any services offered but not listed:**
+
+|  |  |
+| --- | --- |
+| **Assay Development** | |
+|  | Biochemical assay development |
+|  | Cell based assay development |
+|  | Induced pluripotent stem cells (iPSC) |
+| **Libraries** | |
+|  | CNS targeted libraries |
+|  | FDA-approved libraries |
+|  | Fragment based libraries |
+|  | Natural product libraries |
+|  | Peptide libraries |
+|  | Screening libraries |
+| **Screening** | |
+|  | Abeta oligomer assays |
+|  | Biochemical assays |
+|  | Brain slice electrophysiology |
+|  | Cell based assays |
+|  | Dendritic spine assay |
+|  | High content screening (HCS) |
+|  | High throughput screening (HTS) |
+|  | In silico |
+|  | Ion channel screening |
+|  | Tau cell based assays |
+|  | Tissue based assays |
+|  | Synaptic transmission assays |
+| **Medicinal Chemistry** | |
+|  | Building blocks |
+|  | Chemi informatics software |
+|  | Compound synthesis |
+|  | Computational |
+|  | Fragment based |
+|  | Library generation |
+|  | Natural products based |
+|  | Structural biology |
+| **Other Services** | |
+|  | 3 dimensional (3D) electron microscopy |
+|  | Electrophysiology |
+|  | Microscopy |
+|  | Storage-biological specimen |
+|  | Storage-compounds/libraries |
+|  | Systems pharmacology |
+|  | Tissue procurement |
+| **ADME/PK** | |
+|  | Bioanalytical – biologics |
+|  | Bioanalytical - small molecule |
+|  | BBB permeability |
+|  | C14, tritium metabolism Studies |
+|  | CYP interactions (inhibition, induction) |
+|  | Excretion, massbalance |
+|  | Metabolic profiling, metabolite ID |
+|  | Metabolic stability |
+|  | Permeability |
+|  | PK/PD modeling |
+|  | PK/bioavailability |
+|  | Physicochemical properties |
+|  | Plasma protein binding |
+|  | Reaction phenotyping |
+|  | Tissue distribution |
+|  | Transporter studies |
+| **Animal Models** | |
+|  | 6-OHDA models |
+|  | Abeta in-vivo exposure model |
+|  | Aged dog models |
+|  | Aged rodent models |
+|  | Alpha-synuclein models |
+|  | Alzheimer’s transgenic (Tg) models |
+|  | Amnesia models |
+|  | Behavior |
+|  | Biochemical analysis |
+|  | Cell therapy |
+|  | Cognition |
+|  | Gene therapy |
+|  | Histopathology |
+|  | Huntington’s disease Tg models |
+|  | Imaging |
+|  | Immunohistochemistry (IHC) |
+|  | In vivo electrophysiology |
+|  | In vivo studies |
+|  | MPTP mouse model |
+|  | Microdialysis |
+|  | Neuroimaging |
+|  | Neurodegeneration |
+|  | Non-human primate models |
+|  | Preclinical electroencephalography (EEG) analysis |
+|  | Stereotactic surgery |
+|  | Stroke models |
+|  | Superoxide dismutase (SOD1) mouse model |
+|  | Transgenic colony management |
+|  | Experimental autoimmune encephalomyelitis (EAE) model |
+| **Biologics** | |
+|  | Antibody conjugation |
+|  | Antibody development |
+|  | Cell line banking |
+|  | Cell line development |
+|  | Peptides |
+| **Biomarkers** | |
+|  | Biomarker analysis |
+|  | Biomarker development |
+|  | Pharmacogenomics |
+| **Toxicology/Safety** | |
+|  | Biologics toxicology |
+|  | DART/Developmental toxicology |
+|  | General toxicology |
+|  | Genotoxicity |
+|  | In-silico toxicology |
+|  | In-vitro toxicology |
+|  | Ion Channel selectivity profiling |
+|  | Neurotoxicity |
+|  | Pathology |
+|  | Phototoxicity |
+|  | Safety Pharmacology |
+|  | Selectivity Profiling |
+|  | Human Ether-a-go-go Related Gene assay |
+|  | Immunotoxicity |
+| **🞏 Chemistry Manufacture Control (CMC)** | |
+|  | Analytical |
+|  | Biologics analytical & safety testing |
+|  | Biologics manufacturing |
+|  | Drug product |
+|  | Drug substance |
+|  | Packaging and labeling |
+|  | Preclinical formulations |
+|  | Preformulation |
+|  | Process development |
+| 🞏 | Radiosynthesis |
+|  | Scale up |
+|  | Stability studies |
+| **Clinical Studies** | |
+|  | Biostatistics |
+|  | Cardiac safety studies (TQT) |
+|  | Central laboratory |
+|  | Clinical operations |
+|  | Data management |
+|  | Drug drug interaction studies (DDI) |
+|  | Imaging (CT, MRI, PET) |
+|  | Metabolism studies |
+|  | Phase 1 |
+|  | Phase 2 |
+|  | Phase 3 |
+| **Diagnostics** | |
+|  | Diagnostics analysis |
+|  | Diagnostics development |
+| **Research Materials** | |
+|  | Antibodies |
+|  | Cell lines |
+|  | Induced pluripotent stem cells (iPSC) |
+|  | Lab animals |
+|  | Membranes and chambers for microscopy |
+|  | Research models (transgenic (Tg), knock-out (KO)) |
+|  | Surgically modified animal models |
+| **Discovery Biology** | |
+|  | Bioinformatics |
+|  | Discovery and molecular biology |
+|  | Gene expression |
+|  | Genomics |
+|  | Target identification and validation |
+| **Consulting services** | |
+|  | ADME/PK |
+|  | Biomarker/translational research |
+|  | Biostatistics |
+|  | Chemistry, manufacture, control (CMC) |
+|  | Clinical development |
+|  | Clinical operations |
+|  | Clinical pharmacology |
+|  | Discovery Biology |
+|  | Drug development |
+|  | Drug discovery |
+|  | Medical writing |
+|  | Medicinal chemistry |
+|  | Nonclinical development |
+|  | Project management |
+|  | Quality assurance (QA) |
+|  | Regulatory affairs (RA) |
+|  | Toxicology |

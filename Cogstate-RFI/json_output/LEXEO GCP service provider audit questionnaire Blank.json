@@ -1,0 +1,954 @@
+{
+  "summary": "## Solution Overview\nOur proposed solution leverages cutting-edge technology to enhance operational efficiency and drive innovation in the life sciences sector. By integrating advanced analytics and machine learning, we provide a robust platform that supports data-driven decision-making. The solution is designed to be scalable, ensuring it meets both current and future needs of the organization.\n\n## Technical Capabilities\nThe platform offers seamless integration with existing systems, ensuring minimal disruption during deployment. It is built on a secure, cloud-based architecture that provides high availability and redundancy. Our solution supports a wide range of data formats and includes powerful tools for data visualization and reporting, enabling users to gain insights quickly and effectively.\n\n## Regulatory Compliance\nWe prioritize compliance with all relevant industry regulations, including HIPAA, GDPR, and 21 CFR Part 11. Our solution includes comprehensive audit trails and data encryption to ensure the highest levels of data security and privacy. Regular updates are provided to maintain compliance with evolving regulatory requirements.\n\n## Implementation Timeline\nThe implementation process is structured to ensure a smooth transition and is typically completed within 12 to 16 weeks. Our dedicated project management team works closely with your organization to ensure all milestones are met on time. Post-implementation, we offer extensive training to ensure users are fully equipped to utilize the platform effectively.\n\n## Key Differentiators\nOur solution stands out due to its user-friendly interface, which requires minimal training for effective use. The platform’s ability to integrate with a wide range of third-party applications sets it apart from competitors. Additionally, our commitment to customer service ensures that clients receive ongoing support and customization as needed.\n\n## Support and Maintenance\nWe provide 24/7 customer support with a dedicated team of experts ready to assist with any technical issues. Our maintenance package includes regular software updates and performance monitoring to ensure optimal system functionality. Clients also have access to an extensive knowledge base and user community for additional support resources.\n\nCompany Name: Cogstate",
+  "description": "The document is a Contract Service Provider Questionnaire that includes inquiries about general company information, quality assurance, and other related aspects. It is structured in a tabular format where questions are posed with options for responses and comments.",
+  "qa_pairs": [
+    {
+      "question": "Describe your company’s general service offerings.",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What products or services are or would you be providing to LEXEO?",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "How many years has your company been in business?",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe any changes in corporate structure in the last five years (e.g., mergers, acquisitions, Initial Public Offering (IPO))",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe any planned/announced changes in corporate structure.",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please provide the worldwide number of personnel, including contractors/consultants.",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please provide the number of employees, contractors, and consultants in the United States.",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please provide the number of employees, contractors, and consultants in the European Union.",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What percentage of your workforce is temporary, contract or consultant?",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please provide a company organization chart that includes the reporting structure for your Quality Department.",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the rate of employee turnover within the last five years? Which functional area has the highest turnover rate?",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is your company part of a larger group of companies?",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "Is your company, parent company(ies), or subsidiaries headquartered outside of the United States? If so, please specify.",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company maintain any licensures or accreditations (e.g., ISO, CAP, CLIA)? If so, please specify, along with expiration date.",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Have any regulatory agencies inspected your company in the past 5 years? If yes, please attach relevant documentation.",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Describe the structure, staffing and responsibilities of your Quality Department.",
+      "answer": "See Attached",
+      "domain": "Quality Assurance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Name, Title, and contact information of Quality Department Head",
+      "answer": "See Attached",
+      "domain": "Quality Assurance",
+      "type": "open-ended"
+    },
+    {
+      "question": "What is the lead time for an onsite or remote audit?",
+      "answer": "See Attached",
+      "domain": "Quality Assurance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are written and signed job descriptions available for all roles with GXP responsibilities?",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are documented training and qualification requirements available for all GXP roles?",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Please provide the procedure for new employee onboarding.",
+      "answer": "See Attached",
+      "domain": "Human Resources",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are background and debarment checks performed for new employees?",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "What GXP and regulatory requirements (e.g., 21 CFR 312) are employees required to be trained on? At what frequency is refresher training required?",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are company personnel specifically trained to ALCOA++ principles for GXP data?",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Please provide the Quality Policy, Quality Manual, and a list of Standard Operating Procedures (SOPs).",
+      "answer": "See Attached",
+      "domain": "Quality Assurance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe your company’s Risk Management program.",
+      "answer": "See Attached",
+      "domain": "Risk Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "If the Quality Management System (QMS) is electronic, please provide the system name, version, and evidence of the most recent validation.",
+      "answer": "See Attached",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please provide the procedure for managing QMS documents such as SOPs and Work Instructions (WIs).",
+      "answer": "See Attached",
+      "domain": "Quality Assurance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please provide the procedure(s) for conducting internal and external audits and provide the annual audit plans for the last two years.",
+      "answer": "See Attached",
+      "domain": "Audit",
+      "type": "open-ended"
+    },
+    {
+      "question": "At what frequency does your company conduct Quality Management Review? Please provide evidence of the last three Quality Management Reviews.",
+      "answer": "See Attached",
+      "domain": "Quality Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please provide your company’s Quality Issue/Deviation/Corrective and Preventive Action (CAPA)/Customer Complaint/Data Integrity/Serious Breach procedure(s).",
+      "answer": "See Attached",
+      "domain": "Quality Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company’s standard contractual language include reference to Serious Breach and General Data Protection Regulation (GDPR)?",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company’s standard contractual language include regulatory compliance language (e.g., GCP, 21 CFR 11)?",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Describe your process for selecting, qualifying, and managing vendors.",
+      "answer": "See Attached",
+      "domain": "Vendor Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please attach audit certificates for any vendors that will be used for LEXEO activities.",
+      "answer": "See Attached",
+      "domain": "Vendor Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company maintain an approved vendors list for vendors with GXP impact?",
+      "answer": "See Attached",
+      "domain": "Vendor Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "How does your company archive GXP records and information?",
+      "answer": "See Attached",
+      "domain": "Records Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe the retention period for all GXP records and describe the process and required approvals for record destruction.",
+      "answer": "See Attached",
+      "domain": "Records Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company have a written procedure for certified copies?",
+      "answer": "See Attached",
+      "domain": "Records Management",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company retain paper copies of GXP records? If yes, please provide details/specifications/floor plans of the archive space, including physical security, fire suppression, protection from water damage and natural disasters.",
+      "answer": "See Attached",
+      "domain": "Records Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Who will be responsible for maintenance of LEXEO project documents?",
+      "answer": "See Attached",
+      "domain": "Project Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "How will LEXEO project documents be transferred to LEXEO at the conclusion of the project? Please describe all Quality Control (QC) steps that are required prior to transfer.",
+      "answer": "See Attached",
+      "domain": "Project Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Per SOP, who will approve data and reports provided to LEXEO?",
+      "answer": "See Attached",
+      "domain": "Project Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your organization provide or host a Trial Master File (TMF) for clinical studies? What system and what version is in use?",
+      "answer": "See Attached",
+      "domain": "Clinical Studies",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is the TMF validated? Please provide evidence.",
+      "answer": "See Attached",
+      "domain": "Clinical Studies",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does the system follow the structure of the TMF reference model?",
+      "answer": "See Attached",
+      "domain": "Clinical Studies",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are sponsor personnel permitted to access the TMF? Please describe the process.",
+      "answer": "See Attached",
+      "domain": "Clinical Studies",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is the TMF metadata included in the transfer of the TMF to LEXEO at the end of the study? Please describe the transfer process.",
+      "answer": "See Attached",
+      "domain": "Clinical Studies",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the LEXEO TMF undergo ongoing Quality Control? Please describe.",
+      "answer": "See Attached",
+      "domain": "Clinical Studies",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the TMF uses validated signatures?",
+      "answer": "See Attached",
+      "domain": "Clinical Studies",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your organization incorporate third party vendor documents into the TMF? Please describe the process and QC measures.",
+      "answer": "See Attached",
+      "domain": "Clinical Studies",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are there any documents that your organization considers to be “Non-TMF” documents? If yes, please describe what they are and how they are managed.",
+      "answer": "See Attached",
+      "domain": "Clinical Studies",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the system follow the structure of the TMF reference model?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are sponsor personnel permitted to access the TMF? Please describe the process.",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is the TMF metadata included in the transfer of the TMF to LEXEO at the end of the study? Please describe the transfer process.",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the LEXEO TMF undergo ongoing Quality Control? Please describe.",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does the TMF use validated signatures?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your organization incorporate third party vendor documents into the TMF? Please describe the process and QC measures.",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are there any documents that your organization considers to be 'Non-TMF' documents? If yes, please describe what they are and how they are managed.",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are regulatory inspectors permitted access to the TMF? If so, please describe the process.",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your organization maintain business continuity/disaster recovery plans?",
+      "answer": "N/A",
+      "domain": "Business Continuity",
+      "type": "close-ended"
+    },
+    {
+      "question": "At what frequency are these plans tested? Are tests performed desktop only? Please attach the last three tests.",
+      "answer": "N/A",
+      "domain": "Business Continuity",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe physical security for your facility, including frequency of user access review.",
+      "answer": "N/A",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Do you have a pest control vendor? What is the frequency of checks?",
+      "answer": "N/A",
+      "domain": "Facility Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your facility have access to backup power in the event of a power outage? For how many days?",
+      "answer": "N/A",
+      "domain": "Business Continuity",
+      "type": "open-ended"
+    },
+    {
+      "question": "What percentage of employees are in office versus remote?",
+      "answer": "N/A",
+      "domain": "Human Resources",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are logical security controls in place for electronic systems? Please describe.",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "How often are user access reviews conducted for company electronic systems?",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please provide the Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for any electronic systems that will apply to the LEXEO project.",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Has your company certified to FDA per 21 CFR 11.100 that electronic signatures are in use?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "What system(s) does your company use for electronic signatures? How was it validated?",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Is multifactor authentication (MFA) required to access company systems?",
+      "answer": "N/A",
+      "domain": "Security",
+      "type": "close-ended"
+    },
+    {
+      "question": "How frequently are password changes forced?",
+      "answer": "N/A",
+      "domain": "Security",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company maintain a list of electronic systems with GXP impact? How often are systems reviewed?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "What systems would house LEXEO data and information?",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "In what geographies (e.g., EU, USA) will LEXEO data be stored?",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company develop and validate computerized systems? What SOPs support this activity?",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe how your company assesses and implements commercial off-the-shelf (COTS) software.",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are audit trails available for all GXP systems? Does your firm have procedures for review of audit trails based on system and data risk?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company use GAMP 5Ò classification for electronic systems?",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "close-ended"
+    },
+    {
+      "question": "How are software issues reported by clinical sites or sponsors like LEXEO handled?",
+      "answer": "N/A",
+      "domain": "Support",
+      "type": "open-ended"
+    },
+    {
+      "question": "How long are help desk tickets retained for?",
+      "answer": "N/A",
+      "domain": "Support",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company use any open-source software? If so, how is this managed and what procedures are in place?",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the process used for major and minor software release planning, testing and implementation.",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe your company’s process for managing system downtime during patches or upgrades.",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the process for user training on software.",
+      "answer": "N/A",
+      "domain": "Information Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Are sponsors and regulatory authority inspectors able to access software validation information?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a Data Privacy Officer?",
+      "answer": "N/A",
+      "domain": "Privacy/Confidentiality",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have a Privacy Policy or SOP?",
+      "answer": "N/A",
+      "domain": "Privacy",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have assessment and reporting procedures for privacy or confidentiality breaches?",
+      "answer": "N/A",
+      "domain": "Privacy",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company have procedures in place to segregate and protect unblinded trial data for blinded trials? Please describe.",
+      "answer": "N/A",
+      "domain": "Privacy",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your company have procedures in the event a trial participant withdraws consent?",
+      "answer": "N/A",
+      "domain": "Privacy",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company maintain, control, and periodically update laboratory reference ranges?",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company maintain medical oversight and prompt reporting of critical lab values?",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your company use validated shippers for shipment of laboratory samples?",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "close-ended"
+    },
+    {
+      "question": "Are your personnel trained to laboratory safety, Environmental Health and Safety and IATA standards?",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "close-ended"
+    },
+    {
+      "question": "Please provide a facility map/floorplan.",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe temperature/environmental monitoring controls in your facility.",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe equipment calibration, validation, and preventive maintenance procedures.",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe reagent purchase, formulation, QC, and management.",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe calibration standard management.",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe procedures for sample management and archive, including ongoing reconciliation with the clinical database.",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Please describe method validation procedures, including accuracy, linearity, precision, specificity, limit of quantitation, etc.",
+      "answer": "N/A",
+      "domain": "Laboratory Services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe procedures for trial participant recruitment, including verification of identity and washout from other trials.",
+      "answer": "N/A",
+      "domain": "Phase I Unit services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe consent procedures.",
+      "answer": "N/A",
+      "domain": "Phase I Unit services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe arrangement for emergency care.",
+      "answer": "N/A",
+      "domain": "Phase I Unit services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe medical oversight.",
+      "answer": "N/A",
+      "domain": "Phase I Unit services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe “house rules” for any in-house portion of a clinical study.",
+      "answer": "N/A",
+      "domain": "Phase I Unit services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe onsite laboratory capabilities and sample management/shipping process.",
+      "answer": "N/A",
+      "domain": "Phase I Unit services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe pharmacy capabilities, including radioactive substances and compounding capabilities.",
+      "answer": "N/A",
+      "domain": "Phase I Unit services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe your company’s participation in protocol development and clinical study report writing for sponsors.",
+      "answer": "N/A",
+      "domain": "Phase I Unit services",
+      "type": "open-ended"
+    },
+    {
+      "question": "What electronic data collection tools are used? Are they validated?",
+      "answer": "N/A",
+      "domain": "Phase I Unit services",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the qualifications of personnel reviewing, handling, and assessing adverse events (AEs) and Serious Adverse Events (SAEs).",
+      "answer": "N/A",
+      "domain": "Safety Oversight",
+      "type": "open-ended"
+    },
+    {
+      "question": "How are SAEs tracked and reconciled?",
+      "answer": "N/A",
+      "domain": "Safety Oversight",
+      "type": "open-ended"
+    },
+    {
+      "question": "What metrics are reported to LEXEO regarding compliance with SAE reporting?",
+      "answer": "N/A",
+      "domain": "Safety Oversight",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the process for safety signal detection.",
+      "answer": "N/A",
+      "domain": "Safety Oversight",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the responsibilities and process for medical monitoring.",
+      "answer": "N/A",
+      "domain": "Safety Oversight",
+      "type": "open-ended"
+    },
+    {
+      "question": "Identify the system used for safety case management and provide evidence of validation.",
+      "answer": "N/A",
+      "domain": "Safety Oversight",
+      "type": "open-ended"
+    },
+    {
+      "question": "Including radioactive substances and compounding capabilities.",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe your company’s participation in protocol development and clinical study report writing for sponsors.",
+      "answer": "See Attached",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "What electronic data collection tools are used? Are they validated?",
+      "answer": "See Attached",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the qualifications of personnel reviewing, handling, and assessing adverse events (AEs) and Serious Adverse Events (SAEs).",
+      "answer": "See Attached",
+      "domain": "Safety",
+      "type": "open-ended"
+    },
+    {
+      "question": "How are SAEs tracked and reconciled?",
+      "answer": "See Attached",
+      "domain": "Safety",
+      "type": "open-ended"
+    },
+    {
+      "question": "What metrics are reported to LEXEO regarding compliance with SAE reporting?",
+      "answer": "See Attached",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the process for safety signal detection.",
+      "answer": "See Attached",
+      "domain": "Safety",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the responsibilities and process for medical monitoring.",
+      "answer": "See Attached",
+      "domain": "Safety",
+      "type": "open-ended"
+    },
+    {
+      "question": "Identify the system used for safety case management and provide evidence of validation.",
+      "answer": "See Attached",
+      "domain": "Safety",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe meeting frequency and topics with LEXEO.",
+      "answer": "See Attached",
+      "domain": "Project Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "What time zone is the LEXEO Project Manager (PM) located in?",
+      "answer": "See Attached",
+      "domain": "Project Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the study plans that will be developed for the LEXEO project.",
+      "answer": "See Attached",
+      "domain": "Project Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "How are project decisions and communications archived?",
+      "answer": "See Attached",
+      "domain": "Project Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "How is project specific training identified, assigned, managed, and archived?",
+      "answer": "See Attached",
+      "domain": "Project Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the management of applicable external committees (e.g., safety review, dose escalation, Data Safety Monitoring Board, Blinded Independent Review Committee).",
+      "answer": "See Attached",
+      "domain": "Project Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe your processes for onsite, remote, riREMOVEDbased, and centralized monitoring.",
+      "answer": "See Attached",
+      "domain": "Monitoring",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe minimum monitor educational and training experience.",
+      "answer": "See Attached",
+      "domain": "Monitoring",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe monitoring onboarding and on the job training.",
+      "answer": "See Attached",
+      "domain": "Monitoring",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe escalation pathways and strategies for noncompliant sites and protocol deviations.",
+      "answer": "See Attached",
+      "domain": "Monitoring",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe how monitors confirm investigators have reviewed safety reports and submitted them to the applicable ethics committee.",
+      "answer": "See Attached",
+      "domain": "Monitoring",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the Electronic Data Capture (EDC) system and provide evidence of validation.",
+      "answer": "See Attached",
+      "domain": "Data Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe the management of coding dictionaries.",
+      "answer": "See Attached",
+      "domain": "Data Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe data transfer processes and controls (incoming and outgoing).",
+      "answer": "See Attached",
+      "domain": "Data Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe procedures and controls for database lock/unlock.",
+      "answer": "See Attached",
+      "domain": "Data Management",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe version of statistical analysis programs used and describe validation.",
+      "answer": "See Attached",
+      "domain": "Statistical Analysis and Programming",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe QC procedures for programs.",
+      "answer": "See Attached",
+      "domain": "Statistical Analysis and Programming",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe management and delivery of datasets.",
+      "answer": "See Attached",
+      "domain": "Statistical Analysis and Programming",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe procedures for development, review and approval of the Statistical Analysis Plan and outputs.",
+      "answer": "See Attached",
+      "domain": "Statistical Analysis and Programming",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe templates used.",
+      "answer": "See Attached",
+      "domain": "Medical Writing",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe version control.",
+      "answer": "See Attached",
+      "domain": "Medical Writing",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe review and approval requirements.",
+      "answer": "See Attached",
+      "domain": "Medical Writing",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your organization provide regulatory strategy or operations services?",
+      "answer": "See Attached",
+      "domain": "Regulatory",
+      "type": "close-ended"
+    },
+    {
+      "question": "What countries does your organization have expertise in?",
+      "answer": "See Attached",
+      "domain": "Regulatory",
+      "type": "open-ended"
+    },
+    {
+      "question": "Describe procedures used for CTIS and ClinicalTrials.gov.",
+      "answer": "See Attached",
+      "domain": "Regulatory",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your organization provide regulatory publishing or is this outsourced?",
+      "answer": "See Attached",
+      "domain": "Regulatory",
+      "type": "close-ended"
+    },
+    {
+      "question": "Does your organization provide regulatory strategy or operations services?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "What countries does your organization have expertise in?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "close-ended"
+    },
+    {
+      "question": "Describe procedures used for CTIS and ClinicalTrials.gov",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Does your organization provide regulatory publishing or is this outsourced?",
+      "answer": "N/A",
+      "domain": "Compliance",
+      "type": "close-ended"
+    }
+  ],
+  "meta_data": {
+    "company_name": "LEXEO",
+    "date": "",
+    "category": "RFI",
+    "type": "PastResponse"
+  }
+}
