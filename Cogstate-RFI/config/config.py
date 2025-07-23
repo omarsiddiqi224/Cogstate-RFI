@@ -5,6 +5,10 @@ import logging
 from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
+from langchain_google_genai import ChatGoogleGenerativeAI  # Always import at top
+
+# Set up logger for this config module
+logger = logging.getLogger(__name__)
 
 # Load environment variables from a .env file
 load_dotenv()
@@ -55,3 +59,33 @@ class Config:
 
     CHUNK_SIZE = 2000
     CHUNK_OVERLAP = 200
+
+    # Add new model names from settings
+    groq_settings = globals().get('settings', None)
+    if groq_settings:
+        GROQ_MODEL_NAME = groq_settings.GROQ_MODEL_NAME
+        GROQ_FAST_MODEL_NAME = groq_settings.GROQ_FAST_MODEL_NAME
+        GEMINI_PRO_MODEL_NAME = groq_settings.GEMINI_PRO_MODEL_NAME
+        GEMINI_MODEL_NAME = groq_settings.GEMINI_MODEL_NAME
+        GEMINI_FAST_MODEL_NAME = groq_settings.GEMINI_FAST_MODEL_NAME
+    else:
+        GROQ_MODEL_NAME = os.getenv("GROQ_MODEL_NAME", "")
+        GROQ_FAST_MODEL_NAME = os.getenv("GROQ_FAST_MODEL_NAME", "")
+        GEMINI_PRO_MODEL_NAME = os.getenv("GEMINI_PRO_MODEL_NAME", "gemini-1.5-pro-latest")
+        GEMINI_MODEL_NAME = os.getenv("GEMINI_MODEL_NAME", "gemini-1.5-pro-latest")
+        GEMINI_FAST_MODEL_NAME = os.getenv("GEMINI_FAST_MODEL_NAME", "gemini-1.5-flash-latest")
+
+    @staticmethod
+    def get_gemini_pro_llm():
+        try:
+            llm = ChatGoogleGenerativeAI(
+                model=Config.GEMINI_PRO_MODEL_NAME,
+                temperature=0.1,
+                max_tokens=None,
+                timeout=None,
+                max_retries=2,
+            )
+            logger.info(f"Initialized LLM Provider: {Config.GEMINI_MODEL_NAME}")
+            return llm
+        except Exception as e:
+            raise ImportError("langchain_google_genai.ChatGoogleGenerativeAI is not installed or misconfigured: " + str(e))
