@@ -1,0 +1,172 @@
+{
+  "summary": "## Solution Overview\nOur comprehensive solution is designed to address the multifaceted needs of the healthcare and life sciences industries. By integrating advanced technologies with our deep domain expertise, we deliver a platform that enhances operational efficiency, ensures data integrity, and accelerates research and development processes. Our commitment to innovation ensures that our clients remain at the forefront of their respective fields.\n\n## Technical Capabilities\nLeveraging cutting-edge technology, our platform offers robust data management, advanced analytics, and seamless integration capabilities. Our scalable architecture supports high-volume data processing and real-time analytics, ensuring that clients can make informed decisions swiftly. Our commitment to security and compliance is reflected in our state-of-the-art encryption and access control measures.\n\n## Regulatory Compliance\nWe adhere to the highest standards of regulatory compliance, ensuring that our solutions meet the stringent requirements of the healthcare and pharmaceutical industries. Our platform is fully compliant with global standards such as HIPAA, GDPR, and 21 CFR Part 11, providing our clients with the assurance that their data is handled with the utmost care and legality.\n\n## Implementation Timeline\nOur implementation process is designed to be efficient and minimally disruptive, with a typical timeline of 8 to 12 weeks from initiation to full deployment. We employ a phased approach that includes detailed planning, rigorous testing, and comprehensive training to ensure a smooth transition and immediate operational readiness.\n\n## Key Differentiators\nOur platform's unique differentiators include its user-friendly interface, advanced machine learning algorithms, and customizable workflows. We provide unparalleled customer support and a dedicated team of experts to tailor our solutions to meet specific client needs, ensuring a competitive edge in the market.\n\n## Support and Maintenance\nWe offer comprehensive support and maintenance services, including 24/7 technical assistance, regular software updates, and proactive monitoring. Our dedicated support team ensures that clients experience minimal downtime and receive prompt resolutions to any issues, maintaining optimal system performance.\n\nCompany Name: Cogstate",
+  "description": "",
+  "questions": [
+    {
+      "question": "Name of the product",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Tasks to do for the patient / clinician",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Cognitive Domains the tasks measure",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Platform e.g. smartphone / tablet / web in what combination",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Provisioned/BYOD setupTime for testing (in mins)",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Intended use of the product",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Device classification and FDA # (if relevant)",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Clinical use environment - unsupervised remote vs supervised in-clinic",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Total patients tested since the product launch",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Task completion rates (% in both unsupervised and supervised/oversight environments)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Participant demographics",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Age ranges",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Symptomatic vs asymptomatic",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Disease severity",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Gold standard diagnosis",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Urban vs Rural (Education levels & socioeconomic status)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Clinical validity of the product",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Clinical association evidence",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Usability scores from real-world participants (if any)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Test-retest reliability of screening scores",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Correlation with standard screening assessments, i.e., MMSE, MoCA, PACC",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Correlation with biomarkers, i.e., MRI, PET, pTau181, pTau217",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Classification performance, i.e., sensitivity, specificity, NPV, PPV",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Availability of age and education adjusted normative data",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Product reliability",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Net promoter scores (NPS) from clinicians and patients",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Uptime and MTTR (mean time to repair)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Any corrective action and preventive actions (CAPA) that were raised and closed?",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Market growth (at least 3 years data)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Customer growth i.e. number of sites / customer or number of users / customer",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Revenue growth - share if possible absolute $ and % growth yoy (year over year)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Customer profile - any reference sites of IHN (Integrated health networks)?",
+      "domain": "General",
+      "type": "open-ended"
+    }
+  ],
+  "meta_data": {
+    "company_name": "",
+    "date": "",
+    "category": "RFI",
+    "type": "PastResponse"
+  }
+}
