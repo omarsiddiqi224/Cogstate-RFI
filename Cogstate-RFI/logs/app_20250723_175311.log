@@ -1,0 +1,11 @@
+2025-07-23 17:53:16,093 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:54] - Initialized Advanced LLM Provider: gpt-4o
+2025-07-23 17:53:16,491 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:27] - Initialized Fast LLM Provider: gpt-4-turbo
+2025-07-23 17:53:16,492 - rfiprocessor.services.prompt_loader - INFO     - [prompt_loader.py:38] - Loading prompt 'rfi_parser_summary' from: rfiprocessor\prompts\rfi_parser_summary.txt
+2025-07-23 17:53:16,493 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:41] - BlankRfiParserAgent initialized successfully.
+2025-07-23 17:53:16,495 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:27] - Initialized Fast LLM Provider: gpt-4-turbo
+2025-07-23 17:53:17,044 - rfiprocessor.services.vector_search_service - INFO     - [vector_search_service.py:36] - VectorSearchService initialized successfully.
+2025-07-23 17:53:17,046 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:54] - Initialized Advanced LLM Provider: gpt-4o
+2025-07-23 17:53:17,046 - rfiprocessor.services.prompt_loader - INFO     - [prompt_loader.py:38] - Loading prompt 'answer_synthesis' from: rfiprocessor\prompts\answer_synthesis.txt
+2025-07-23 17:53:17,047 - rfiprocessor.services.answer_synthesis_service - INFO     - [answer_synthesis_service.py:26] - AnswerSynthesisService initialized successfully.
+2025-07-23 17:53:17,047 - rfiprocessor.services.prompt_loader - INFO     - [prompt_loader.py:38] - Loading prompt 'question_variant_generator' from: rfiprocessor\prompts\question_variant_generator.txt
+2025-07-23 17:53:17,048 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:49] - EnhancedBlankRfiAgent initialized successfully.

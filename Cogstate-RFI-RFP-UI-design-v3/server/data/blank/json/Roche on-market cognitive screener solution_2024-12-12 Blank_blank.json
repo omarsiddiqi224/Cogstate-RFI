@@ -1,0 +1,172 @@
+{
+  "summary": "## Solution Overview\nOur proposed solution leverages cutting-edge technology to address the specific needs outlined in the RFI. By integrating advanced analytics and user-friendly interfaces, we aim to enhance operational efficiency and drive measurable outcomes. Our commitment to innovation ensures that our solution remains adaptable to evolving industry demands.\n\n## Technical Capabilities\nOur platform is built on a robust architecture that supports scalability and security. With seamless integration capabilities, it can be easily deployed within existing IT infrastructures. The use of industry-standard protocols ensures data integrity and compatibility across various systems.\n\n## Regulatory Compliance\nWe adhere to all relevant regulatory requirements, ensuring that our solution meets the highest standards of compliance. Our team is well-versed in the latest industry regulations, including GDPR, HIPAA, and FDA guidelines, ensuring that your organization remains compliant at all times.\n\n## Implementation Timeline\nOur implementation strategy is designed to minimize disruption and ensure a smooth transition. We offer a detailed timeline that outlines each phase of the deployment process, with a focus on efficiency and timely delivery. Our experienced project management team ensures that all milestones are met as scheduled.\n\n## Key Differentiators\nOur solution stands out due to its innovative features and user-centric design. We offer unparalleled customization options, allowing clients to tailor the platform to their specific needs. Additionally, our commitment to customer success is demonstrated through our dedicated support and continuous improvement initiatives.\n\n## Support and Maintenance\nWe provide comprehensive support and maintenance services to ensure optimal performance of our solution. Our dedicated support team is available 24/7 to address any issues promptly. Regular updates and enhancements are part of our commitment to maintaining the highest standards of service.\n\nCompany Name: [Name of the Company]",
+  "description": "",
+  "questions": [
+    {
+      "question": "Name of the product",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Tasks to do for the patient / clinician",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Cognitive Domains the tasks measure",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Platform e.g. smartphone / tablet / web in what combination",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Provisioned/BYOD setupTime for testing (in mins)",
+      "domain": "Technology",
+      "type": "open-ended"
+    },
+    {
+      "question": "Intended use of the product",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Device classification and FDA # (if relevant)",
+      "domain": "Compliance",
+      "type": "open-ended"
+    },
+    {
+      "question": "Clinical use environment - unsupervised remote vs supervised in-clinic",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Total patients tested since the product launch",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Task completion rates (% in both unsupervised and supervised/oversight environments)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Participant demographics",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Age ranges",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Symptomatic vs asymptomatic",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Disease severity",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Gold standard diagnosis",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Urban vs Rural (Education levels & socioeconomic status)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Clinical validity of the product",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Clinical association evidence",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Usability scores from real-world participants (if any)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Test-retest reliability of screening scores",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Correlation with standard screening assessments, i.e., MMSE, MoCA, PACC",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Correlation with biomarkers, i.e., MRI, PET, pTau181, pTau217",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Classification performance, i.e., sensitivity, specificity, NPV, PPV",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Availability of age and education adjusted normative data",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Product reliability",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Net promoter scores (NPS) from clinicians and patients",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Uptime and MTTR (mean time to repair)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Any corrective action and preventive actions (CAPA) that were raised and closed?",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Market growth (at least 3 years data)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Customer growth i.e. number of sites / customer or number of users / customer",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Revenue growth - share if possible absolute $ and % growth yoy (year over year)",
+      "domain": "General",
+      "type": "open-ended"
+    },
+    {
+      "question": "Customer profile - any reference sites of IHN (Integrated health networks)?",
+      "domain": "General",
+      "type": "open-ended"
+    }
+  ],
+  "meta_data": {
+    "company_name": "",
+    "date": "",
+    "category": "RFI",
+    "type": "PastResponse"
+  }
+}

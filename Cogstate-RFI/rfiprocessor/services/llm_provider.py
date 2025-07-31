@@ -21,7 +21,7 @@ def get_fast_llm():
         model=FAST_LLM_MODEL_NAME,
         temperature=0.1,  # Low temperature for consistent, factual outputs
         openai_api_key=config.OPENAI_API_KEY,
-        timeout=10,  # Short timeout for quick responses
+        timeout=300,  # Short timeout for quick responses
         max_retries=2,
     )
     logger.info(f"Initialized Fast LLM Provider: {FAST_LLM_MODEL_NAME}")

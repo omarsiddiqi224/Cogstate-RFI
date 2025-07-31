@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #ecf7fd;
+  color: #333;
+  font-family: "Inter", sans-serif !important;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 14px !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+/* Move toolbar to bottom */
+.w-md-editor-toolbar {
+  background-color: #f7f9fb !important;
+  border: none !important;
+  padding: 5px 10px !important;
+}
+.w-md-editor-content {
+  margin: 15px 10px;
+  margin-top: 0;
+  background-color: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+}
+.w-md-editor {
+  display: flex;
+  flex-direction: column;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  background-color: #f7f9fb !important;
+}
+
+.w-md-editor-text-input {
+  font-size: 12px !important;
+  color: #333 !important;
+}
+
+/* Fix text color in the rich text editor */
+.w-md-editor-text-input,
+.w-md-editor-text-pre,
+.w-md-editor-text {
+  color: #333 !important;
+}
+
+/* Ensure the preview text is also dark */
+.w-md-editor-preview {
+  color: #333 !important;
+}
+
+/* Fix any light text in the editor */
+.w-md-editor-text-input::placeholder {
+  color: #666 !important;
+}
+
+.logo {
+  width: auto;
+  height: 30px;
+}

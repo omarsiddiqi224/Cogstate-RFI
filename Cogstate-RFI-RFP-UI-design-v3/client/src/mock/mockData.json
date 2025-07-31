@@ -1,0 +1,127 @@
+{
+    "id": "6a7e89c2-8e4b-4a2f-a831-07c452d8f0cc",
+    "title": "Billye Pharmaceuticals RFI",
+    "success": true,
+    "fileName": "sample.docx",
+    "status": "In Progress",
+    "lastUpdated": "2025-07-10T17:00:00Z",
+    "section": "Section 2: Technical Capabilities",
+    "progress": 45,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Is the company address the location where services will be performed?",
+            "response": "195 Church Street\n\n4th Floor\n\nNew Haven",
+            "status": "completed",
+            "assignedTo": "John Doe",
+            "knowledgeBase": [
+                {
+                    "id": "sop-001",
+                    "title": "Data Management System Overview",
+                    "category": "SOP",
+                    "snippet": "Our validated system ClinicalCloud 5 provides comprehensive data management...",
+                    "fullText": "Our primary data management system is 'ClinicalVault X', a fully validated platform offering robust data capture, validation, and reporting features. It integrates seamlessly with EDC and other critical trial systems, ensuring data integrity from collection to submission.",
+                    "relevance": 95
+                },
+                {
+                    "id": "past-response-001",
+                    "title": "Q.1.4 (Data Systems) Past Response",
+                    "category": "Past Response",
+                    "snippet": "We utilize a tiered data storage solution with regular backups...",
+                    "fullText": "We utilize a tiered data storage solution with regular backups and disaster recovery protocols. Our systems are compliant with 21 CFR Part 11. All data is managed within our US-based data centers.",
+                    "relevance": 88
+                },
+                {
+                    "id": "fact-001",
+                    "title": "Patient Recruitment Success Metrics",
+                    "category": "Organizational Fact",
+                    "snippet": "Historical recruitment performance data and success rates...",
+                    "fullText": "In the last fiscal year, our organization successfully achieved 95% of its patient recruitment targets across all rare disease studies, demonstrating our strong network and effective outreach strategies.",
+                    "relevance": 75
+                },
+                {
+                    "id": "sop-002",
+                    "title": "Quality Assurance Procedures",
+                    "category": "SOP",
+                    "snippet": "Comprehensive quality control measures and validation protocols...",
+                    "fullText": "We utilize a tiered data storage solution with regular backups and disaster recovery protocols. Our systems are compliant with 21 CFR Part 11. All data is managed within our US-based data centers.",
+                    "relevance": 82
+                },
+                {
+                    "id": "past-response-002",
+                    "title": "Technical Infrastructure Response",
+                    "category": "Past Response",
+                    "snippet": "Previous response detailing our technical capabilities and infrastructure...",
+                    "fullText": "Our primary data management system is 'ClinicalVault X', a fully validated platform offering robust data capture, validation, and reporting features. It integrates seamlessly with EDC and other critical trial systems, ensuring data integrity from collection to submission.",
+                    "relevance": 79
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "List key features?",
+            "response": "## Features\n\n- Feature A\n- Feature B\n- Feature C",
+            "status": "in progress",
+            "assignedTo": "Alice",
+            "knowledgeBase": []
+        },
+        {
+            "id": 3,
+            "question": "Provide summary?",
+            "response": "### Summary\n\nThis is a mock summary answer in markdown.",
+            "status": "completed",
+            "assignedTo": "Bob",
+            "knowledgeBase": [
+                {
+                    "id": "sop-001",
+                    "title": "Data Management System Overview",
+                    "category": "SOP",
+                    "snippet": "Our validated system ClinicalCloud 5 provides comprehensive data management...",
+                    "fullText": "Our primary data management system is 'ClinicalVault X', a fully validated platform offering robust data capture, validation, and reporting features. It integrates seamlessly with EDC and other critical trial systems, ensuring data integrity from collection to submission.",
+                    "relevance": 95
+                },
+                {
+                    "id": "past-response-001",
+                    "title": "Q.1.4 (Data Systems) Past Response",
+                    "category": "Past Response",
+                    "snippet": "We utilize a tiered data storage solution with regular backups...",
+                    "fullText": "We utilize a tiered data storage solution with regular backups and disaster recovery protocols. Our systems are compliant with 21 CFR Part 11. All data is managed within our US-based data centers.",
+                    "relevance": 88
+                },
+                {
+                    "id": "fact-001",
+                    "title": "Patient Recruitment Success Metrics",
+                    "category": "Organizational Fact",
+                    "snippet": "Historical recruitment performance data and success rates...",
+                    "fullText": "In the last fiscal year, our organization successfully achieved 95% of its patient recruitment targets across all rare disease studies, demonstrating our strong network and effective outreach strategies.",
+                    "relevance": 75
+                },
+                {
+                    "id": "sop-002",
+                    "title": "Quality Assurance Procedures",
+                    "category": "SOP",
+                    "snippet": "Comprehensive quality control measures and validation protocols...",
+                    "fullText": "We utilize a tiered data storage solution with regular backups and disaster recovery protocols. Our systems are compliant with 21 CFR Part 11. All data is managed within our US-based data centers.",
+                    "relevance": 82
+                },
+                {
+                    "id": "past-response-002",
+                    "title": "Technical Infrastructure Response",
+                    "category": "Past Response",
+                    "snippet": "Previous response detailing our technical capabilities and infrastructure...",
+                    "fullText": "Our primary data management system is 'ClinicalVault X', a fully validated platform offering robust data capture, validation, and reporting features. It integrates seamlessly with EDC and other critical trial systems, ensuring data integrity from collection to submission.",
+                    "relevance": 79
+                }
+            ]
+        }
+    ],
+    "metaData": {
+        "source_document_id": 1,
+        "source_filename": "Ecovadis_Survey_Full_02_08_2019_Cogstate Responses.pdf",
+        "document_type": "RFI/RFP",
+        "company_name": "EcoVadis",
+        "domain": "Sustainability",
+        "question_type": "close-ended",
+        "document_grade": "Organizational Chart"
+    }
+}

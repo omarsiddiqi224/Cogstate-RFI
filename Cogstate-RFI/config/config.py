@@ -27,6 +27,15 @@ class Config:
     CONSOLE_LOG_LEVEL = logging.DEBUG
     FILE_LOG_LEVEL = logging.DEBUG
     
+    # Vector Database Configuration
+    VECTOR_DB_PATH = "data/vector_store/chroma_db"
+    COLLECTION_NAME = "chunks"
+
+    # Processing Configuration  
+    MAX_CONCURRENT_QUESTIONS = 3
+    DEFAULT_TOP_K_RESULTS = 10
+    MAX_SOURCES_FOR_SYNTHESIS = 8
+
     # File handler settings
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     LOG_FILE_PATH = f"logs/app_{timestamp}.log"

@@ -1,0 +1,322 @@
+2025-07-23 16:33:33,533 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:54] - Initialized Advanced LLM Provider: gpt-4o
+2025-07-23 16:33:33,997 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:27] - Initialized Fast LLM Provider: gpt-4-turbo
+2025-07-23 16:33:33,998 - rfiprocessor.services.prompt_loader - INFO     - [prompt_loader.py:38] - Loading prompt 'rfi_parser_summary' from: rfiprocessor\prompts\rfi_parser_summary.txt
+2025-07-23 16:33:34,001 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:41] - BlankRfiParserAgent initialized successfully.
+2025-07-23 16:33:34,002 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:27] - Initialized Fast LLM Provider: gpt-4-turbo
+2025-07-23 16:33:34,857 - rfiprocessor.services.vector_search_service - INFO     - [vector_search_service.py:36] - VectorSearchService initialized successfully.
+2025-07-23 16:33:34,858 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:54] - Initialized Advanced LLM Provider: gpt-4o
+2025-07-23 16:33:34,859 - rfiprocessor.services.prompt_loader - INFO     - [prompt_loader.py:38] - Loading prompt 'answer_synthesis' from: rfiprocessor\prompts\answer_synthesis.txt
+2025-07-23 16:33:34,862 - rfiprocessor.services.answer_synthesis_service - INFO     - [answer_synthesis_service.py:26] - AnswerSynthesisService initialized successfully.
+2025-07-23 16:33:34,863 - rfiprocessor.services.prompt_loader - INFO     - [prompt_loader.py:38] - Loading prompt 'question_variant_generator' from: rfiprocessor\prompts\question_variant_generator.txt
+2025-07-23 16:33:34,864 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:49] - EnhancedBlankRfiAgent initialized successfully.
+2025-07-23 16:33:38,039 - rfiprocessor.services.markdown_converter - INFO     - [markdown_converter.py:39] - Converting file: C:\Users\omars\AppData\Local\Temp\tmpeg1oba6c.docx with markitdown
+2025-07-23 16:33:38,604 - rfiprocessor.services.markdown_converter - INFO     - [markdown_converter.py:111] - Saved markdown to: data\markdown\incoming\tmpeg1oba6c.md
+2025-07-23 16:33:38,617 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:132] - Generating executive summary...
+2025-07-23 16:33:50,925 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:134] - Splitting document into processable chunks...
+2025-07-23 16:33:50,926 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:139] - Processing 4 chunks concurrently...
+2025-07-23 16:33:50,926 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:112] - 
+--- CHUNK SENT TO LLM ---
+**Instruction Page**
+
+The purpose of this questionnaire is to obtain an overview of your operation. We are currently evaluating your firm as a potential new supplier for Mirum Pharmaceuticals. As part of our company’s policy for vendor selection, we are required to obtain preliminary information on your business and operation.
+
+Please complete this Questionnaire as completely as possible within 10 working days from the date of receipt. Please provide document numbers where applicable. If a particular question does not apply to your facility, please indicate “N/A”.
+
+All the information contained within this document will be treated as confidential between the vendor and Mirum Pharmaceuticals
+
+Upon completion, please return the questionnaire with any attachments to Mirum Pharmaceuticals. A PDF copy of the signed questionnaire sent via email is acceptable.
+
+Thank you in advance for your cooperation.
+
+|  |  |
+| --- | --- |
+| **A. General Company Information** | |
+| Company Name: |  |
+| Add...
+--- END OF CHUNK ---
+
+2025-07-23 16:33:50,928 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:112] - 
+--- CHUNK SENT TO LLM ---
+**Answer/Comments** |
+|  | Describe primary types of services conducted at this facility. |  |
+|  | Does your standard business contract and/or policies prohibit your company from sub-contracting without prior permission from Mirum? | Yes  No  N/A |
+|  | Do you have adequate resources to provide the services requested by Mirum? | Yes  No  N/A |
+|  | Do you have prior contract with Mirum? | Yes  No  N/A |
+|  | Please describe executive management and organization structure. Please **attach** an organizational chart. |  |
+|  | Has your organization experienced any major changes in the last two (2) years? If yes, please provide a brief description. |  |
+|  | What is your organization’s main expertise and in what therapeutic area(s)? |  |
+|  | Please provide the number of pharma/biotech clients services you are currently providing. |  |
+|  | Has your organization been inspected by any regulatory authority in the past 5 years? If so, please **provide** a copy of the inspection history. | Ye...
+--- END OF CHUNK ---
+
+2025-07-23 16:33:50,932 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:112] - 
+--- CHUNK SENT TO LLM ---
+nel supporting Mirum’s project? |  |
+|  | **Records** | **Answer/Comments** |
+|  | Is access to the archives controlled? | Yes  No  N/A |
+|  | Are measures in place to protect from fire, pests, humidity, etc.? | Yes  No  N/A |
+|  | Do you have written procedures describing record retention? If yes, describe retention policy (e.g., type of documents and length retained for each). | Yes  No  N/A |
+|  | **Electronic Documents and Records** | **Answer/Comments** |
+| 5.1. | Is there a policy for managing electronic records? | Yes  No  N/A |
+| 5.2. | Do the procedures for managing electronic records include provisions for: |  |
+| 5.3. | * maintaining audit trails including what was changed, by whom, and when? | Yes  No  N/A |
+| 5.4. | * document readability for the duration of retention? | Yes  No  N/A |
+| 5.5. | * record access and administration? | Yes  No  N/A |
+| 5.6. | Do you use an electronic signature manifest (e.g., printed name of signer and date and time when a signature was execut...
+--- END OF CHUNK ---
+
+2025-07-23 16:33:50,933 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:112] - 
+--- CHUNK SENT TO LLM ---
+ your firm use to ensure there is HIPAA compliance? Please describe. |  |
+| 9.3 | Does your firm have control in place to deal with Unencrypted Data? |  |
+|  | **GDPR Compliance** |  |
+| 10.1 | Does your firm comply with GDPR regulations for patient recruitment in the EU? | Yes  No  N/A  Attachment |
+| 10.2 | What controls does your firm use to ensure there is GDPR compliance? Please describe. |  |
+| 10.3 | Do you have insurance in place to cover its activities as a processor of data? If so, what types and amount of coverage? | Yes  No  N/A  Attachment |
+| 10.4 | If applicable, describe how the company complies with the management of the following: |  |
+| 10.5 | * Personally Identifiable Information (PII) data or systems? |  |
+| 10.6 | * Health Insurance Portability and Accountability Act (HIPAA) data or systems? |  |
+| 10.7 | * General Data Protection Regulations (GDPR) data or systems? |  |
+| 10.8 | If applicable, have policies and procedures been updated to comply with GDPR? If not,...
+--- END OF CHUNK ---
+
+2025-07-23 16:34:14,626 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:114] - 
+--- LLM RESPONSE FOR CHUNK ---
+{'summary': '', 'description': '', 'questions': [{'question': 'Does your firm use to ensure there is HIPAA compliance? Please describe.', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Does your firm have control in place to deal with Unencrypted Data?', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'Does your firm comply with GDPR regulations for patient recruitment in the EU?', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'What controls does your firm use to ensure there is GDPR compliance? Please describe.', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Do you have insurance in place to cover its activities as a processor of data? If so, what types and amount of coverage?', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'If applicable, describe how the company complies with the management of the following:', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Personally Identifiable Information (PII) data or systems?', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Health Insurance Portability and Accountability Act (HIPAA) data or systems?', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'General Data Protection Regulations (GDPR) data or systems?', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'If applicable, have policies and procedures been updated to comply with GDPR? If not, when will this task be completed?', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Does the firm have a Data Protection Officer? If so, please provide the name and contact information of the DPO.', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': "For cross-border data transfers, what is the firm's basis for transfer? Privacy shield? BCRs? Model contracts? Other?", 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Thank you for completing this questionnaire. Please sign and date below to signify that you have reviewed all responses to this questionnaire, and you believe the response to be accurate.', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Proceed with the contract without an on-site audit?', 'domain': 'Compliance', 'type': 'close-ended'}], 'meta_data': {'company_name': 'Mirum Pharmaceuticals', 'date': '2023-11-23', 'category': 'RFP', 'type': 'PastResponse'}}
+--- END OF LLM RESPONSE ---
+
+2025-07-23 16:34:27,448 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:114] - 
+--- LLM RESPONSE FOR CHUNK ---
+{'summary': 'The purpose of this questionnaire is to obtain an overview of your operation. We are currently evaluating your firm as a potential new supplier for Mirum Pharmaceuticals. As part of our company’s policy for vendor selection, we are required to obtain preliminary information on your business and operation.', 'description': 'Please complete this Questionnaire as completely as possible within 10 working days from the date of receipt. Please provide document numbers where applicable. If a particular question does not apply to your facility, please indicate “N/A”. All the information contained within this document will be treated as confidential between the vendor and Mirum Pharmaceuticals. Upon completion, please return the questionnaire with any attachments to Mirum Pharmaceuticals. A PDF copy of the signed questionnaire sent via email is acceptable. Thank you in advance for your cooperation.', 'questions': [{'question': 'Company Name:', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Address of Company:', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Address of Headquarter (*if different from above):', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Contact Person/Title/Phone/Email:', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Quality Assurance Contact/Title Phone/Email:', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Parent Company and Address (if applicable):', 'domain': 'General', 'type': 'open-ended'}, {'question': 'In what year was the company established?', 'domain': 'General', 'type': 'open-ended'}, {'question': 'How long has the business been at this location?', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Approximate size of the facility:', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Approximate total number of employees:', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Primary Business Supported:', 'domain': 'General', 'type': 'open-ended'}, {'question': "List all countries, states, or provinces where your facility is registered with the FDA, health, safety, or regulatory authorities. If the authority does not perform an inspection indicate 'NIP' No Inspection Performed. (Please provide copies of certificates, EIR, etc.)", 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'List all professional accreditation bodies for your Facility/Services (Please provide copies)', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Do your practices meet any of the following:', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'Describe primary types of services conducted at this facility.', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Does your standard business contract and/or policies prohibit your company from sub-contracting without prior permission from Mirum?', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'Do you have adequate resources to provide the services requested by Mirum?', 'domain': 'Support', 'type': 'close-ended'}, {'question': 'Do you have prior contract with Mirum?', 'domain': 'General', 'type': 'close-ended'}, {'question': 'Please describe executive management and organization structure. Please attach an organizational chart.', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Has your organization experienced any major changes in the last two (2) years? If yes, please provide a brief description.', 'domain': 'General', 'type': 'open-ended'}, {'question': 'What is your organization’s main expertise and in what therapeutic area(s)?', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Please provide the number of pharma/biotech clients services you are currently providing.', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Has your organization been inspected by any regulatory authority in the past 5 years? If so, please provide a copy of the inspection history.', 'domain': 'Compliance', 'type': 'open-ended'}], 'meta_data': {'company_name': 'Mirum Pharmaceuticals', 'date': '2023-11-23', 'category': 'RFP', 'type': 'PastResponse'}}
+--- END OF LLM RESPONSE ---
+
+2025-07-23 16:34:38,552 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:114] - 
+--- LLM RESPONSE FOR CHUNK ---
+{'summary': 'No executive summary provided in the markdown content.', 'description': 'No descriptive, contextual content provided in the markdown content.', 'questions': [{'question': 'Is access to the archives controlled?', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'Are measures in place to protect from fire, pests, humidity, etc.?', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'Do you have written procedures describing record retention? If yes, describe retention policy (e.g., type of documents and length retained for each).', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'Is there a policy for managing electronic records?', 'domain': 'Technology', 'type': 'close-ended'}, {'question': 'Do the procedures for managing electronic records include provisions for maintaining audit trails including what was changed, by whom, and when?', 'domain': 'Technology', 'type': 'close-ended'}, {'question': 'Do the procedures for managing electronic records include provisions for document readability for the duration of retention?', 'domain': 'Technology', 'type': 'close-ended'}, {'question': 'Do the procedures for managing electronic records include provisions for record access and administration?', 'domain': 'Technology', 'type': 'close-ended'}, {'question': 'Do you use an electronic signature manifest (e.g., printed name of signer and date and time when a signature was executed), and is there documentation for the review, approval, responsibility, or authorship associated with the signature?', 'domain': 'Technology', 'type': 'close-ended'}, {'question': 'Are there controls for the identification codes and passwords?', 'domain': 'Technology', 'type': 'close-ended'}, {'question': 'Is the server maintained in-house?', 'domain': 'Technology', 'type': 'close-ended'}, {'question': 'If yes in 5.8, is the server room secure and equipped with fire and water protection?', 'domain': 'Technology', 'type': 'close-ended'}, {'question': 'Is there a backup server? If yes, provide the location of the backup server.', 'domain': 'Technology', 'type': 'close-ended'}, {'question': 'What procedures does the company have to qualify GxP applications?', 'domain': 'Technology', 'type': 'open-ended'}, {'question': 'What is the procedure for controlling the changes to the GxP applications?', 'domain': 'Technology', 'type': 'open-ended'}, {'question': 'Does the company have approved network security and management procedures? Please provide the list of associated procedures/policies.', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'How are risks and controls identified, managed, reported and escalated? Does the company routinely audit its security program?', 'domain': 'Security', 'type': 'open-ended'}, {'question': 'Does the company have anti-virus, anti-malware and anti-spyware to protect IT infrastructure?', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'Does the company have a policy describing internal reporting and escalation procedures?', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'Does the company have user access control management policy/procedure? Explain how access is safeguarded.', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'Does the company have a Password policy? Explain how passwords are created and managed.', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'Does the company have specific Cyber-liability insurance?', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'Has the company been legally charged or convicted of a computer crime?', 'domain': 'Security', 'type': 'close-ended'}, {'question': 'Do you have an approved Business Continuity Plan in place? please provide the details.', 'domain': 'Support', 'type': 'close-ended'}, {'question': 'Do you have an approved Disaster Recovery Plan in place? If so, please provide the details.', 'domain': 'Support', 'type': 'close-ended'}, {'question': "In the event of a disaster, what is the company's estimated time of fully recovering to an operational state?", 'domain': 'Support', 'type': 'open-ended'}, {'question': 'Provide documentation on the Backup/Restore process.', 'domain': 'Support', 'type': 'open-ended'}, {'question': 'Provide your Record and Data Retention policy.', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'What is your Backup frequency?', 'domain': 'Support', 'type': 'open-ended'}, {'question': 'Do you have an off-site data storage facility?', 'domain': 'Support', 'type': 'close-ended'}, {'question': 'Does your firm conform HIPAA compliance?', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'What controls does your firm use to ensure there is HIPAA compliance? Please describe.', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Does your firm have control in place to deal with Unencrypted Data?', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Does your firm comply with GDPR regulations for patient recruitment in the EU?', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'What controls does your firm use to ensure there is GDPR compliance? Please describe.', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Do you have insurance in place to cover its activities as a processor of data? If so, what types and amount of coverage?', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'If applicable, describe how the company complies with the management of the following: Personally Identifiable Information (PII) data or systems?', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'If applicable, describe how the company complies with the management of the following: Health Insurance Portability and Accountability Act (HIPAA) data or systems?', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'If applicable, describe how the company complies with the management of the following: General Data Protection Regulations (GDPR) data or systems?', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'If applicable, have policies and procedures been updated to comply with GDPR? If not,', 'domain': 'Compliance', 'type': 'open-ended'}], 'meta_data': {'company_name': 'Mirum', 'date': '2023-11-23', 'category': 'RFP', 'type': 'PastResponse'}}
+--- END OF LLM RESPONSE ---
+
+2025-07-23 16:34:44,980 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:114] - 
+--- LLM RESPONSE FOR CHUNK ---
+{'summary': '', 'description': '', 'questions': [{'question': 'Describe primary types of services conducted at this facility.', 'domain': 'General', 'type': 'open-ended'}, {'question': 'Does your standard business contract and/or policies prohibit your company from sub-contracting without prior permission from Mirum?', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'Do you have adequate resources to provide the services requested by Mirum?', 'domain': 'Resources', 'type': 'close-ended'}, {'question': 'Do you have prior contract with Mirum?', 'domain': 'General', 'type': 'close-ended'}, {'question': 'Please describe executive management and organization structure. Please attach an organizational chart.', 'domain': 'Management', 'type': 'open-ended'}, {'question': 'Has your organization experienced any major changes in the last two (2) years? If yes, please provide a brief description.', 'domain': 'General', 'type': 'open-ended'}, {'question': 'What is your organization’s main expertise and in what therapeutic area(s)?', 'domain': 'Expertise', 'type': 'open-ended'}, {'question': 'Please provide the number of pharma/biotech clients services you are currently providing.', 'domain': 'Clientele', 'type': 'open-ended'}, {'question': 'Has your organization been inspected by any regulatory authority in the past 5 years? If so, please provide a copy of the inspection history.', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'Approximately how frequently is your organization inspected by clients?', 'domain': 'Compliance', 'type': 'open-ended'}, {'question': 'Will your facility permit an on-site audit?', 'domain': 'Compliance', 'type': 'close-ended'}, {'question': 'What are your facility’s hours of operation?', 'domain': 'Operations', 'type': 'open-ended'}, {'question': 'Do you have an independent Quality Assurance/Quality Control department?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Do you have a written policy defining the quality organization and its responsibilities?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Do you have a documentation system that includes standard operating procedures?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Do you have a change control process for document control and system changes?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Do you have a program to qualify suppliers? Please briefly describe your vendor qualification and management process or provide a copy of the SOP.', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Is there a formalized Deviation and CAPA Management procedure?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Do you contact the Sponsor when deviations are identified impacting the contracted services?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'If yes in 2.7, how soon the Sponsor will be notified of the deviation?', 'domain': 'Quality Assurance', 'type': 'open-ended'}, {'question': 'Does the Quality Unit review and approve Deviation investigations?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Is there a formal process for handling customer queries or complaints?', 'domain': 'Customer Service', 'type': 'close-ended'}, {'question': 'Do you have a requirement for process continuous improvement?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Do you have an internal audit program?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'If yes in 2.12, do you typically perform an internal audit of Sponsor’s project?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Do you conduct a scheduled Quality Management Review at least annually?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Do you review the quality metrics related to Sponsor’s project and notify Sponsor if any negative trend is identified?', 'domain': 'Quality Assurance', 'type': 'close-ended'}, {'question': 'Are training requirements defined in an approved procedure? If yes, indicate which procedure.', 'domain': 'Training', 'type': 'close-ended'}, {'question': 'Do you have a training program that includes New Hire training, On-the-Job training, and continuous training?', 'domain': 'Training', 'type': 'close-ended'}, {'question': 'Do you maintain training files, including employee qualifications and training?', 'domain': 'Training', 'type': 'close-ended'}, {'question': 'Are training requirements re-assessed at an established frequency? If yes, what is the frequency?', 'domain': 'Training', 'type': 'close-ended'}, {'question': 'Are training records available for review during audit/inspection?', 'domain': 'Training', 'type': 'close-ended'}, {'question': 'What are the annual training requirements for your organization, specifically for the personnel supporting Mirum’s project?', 'domain': 'Training', 'type': 'open-ended'}, {'question': 'Is access to the archives controlled?', 'domain': 'Records Management', 'type': 'close-ended'}, {'question': 'Are measures in place to protect from fire, pests, humidity, etc.?', 'domain': 'Safety', 'type': 'close-ended'}, {'question': 'Do you have written procedures describing record retention? If yes, describe retention policy (e.g., type of documents and length retained for each).', 'domain': 'Records Management', 'type': 'close-ended'}, {'question': 'Is there a policy for managing electronic records?', 'domain': 'Electronic Records', 'type': 'close-ended'}, {'question': 'Do the procedures for managing electronic records include provisions for maintaining audit trails including what was changed, by whom, and when?', 'domain': 'Electronic Records', 'type': 'close-ended'}, {'question': 'Do the procedures for managing electronic records include provisions for document readability for the duration of retention?', 'domain': 'Electronic Records', 'type': 'close-ended'}, {'question': 'Do the procedures for managing electronic records include provisions for record access and administration?', 'domain': 'Electronic Records', 'type': 'close-ended'}, {'question': 'Do you use an electronic signature manifest (e.g., printed name of signer and date and time when a signature was executed)?', 'domain': 'Electronic Records', 'type': 'close-ended'}], 'meta_data': {'company_name': 'Mirum', 'date': '2023-09-28', 'category': 'RFP', 'type': 'PastResponse'}}
+--- END OF LLM RESPONSE ---
+
+2025-07-23 16:34:44,983 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:175] - Successfully parsed document. Found 109 questions.
+2025-07-23 16:34:44,984 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:148] - Processing questions incrementally...
+2025-07-23 16:34:44,985 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 1/109
+2025-07-23 16:34:46,381 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 1: slice(None, 100, None)
+2025-07-23 16:34:46,382 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 2/109
+2025-07-23 16:34:47,272 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 2: slice(None, 100, None)
+2025-07-23 16:34:47,273 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 3/109
+2025-07-23 16:34:49,843 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 3: slice(None, 100, None)
+2025-07-23 16:34:49,844 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 4/109
+2025-07-23 16:34:52,838 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 4: slice(None, 100, None)
+2025-07-23 16:34:52,839 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 5/109
+2025-07-23 16:34:55,187 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 5: slice(None, 100, None)
+2025-07-23 16:34:55,187 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 6/109
+2025-07-23 16:34:57,775 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 6: slice(None, 100, None)
+2025-07-23 16:34:57,776 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 7/109
+2025-07-23 16:34:59,695 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 7: slice(None, 100, None)
+2025-07-23 16:34:59,696 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 8/109
+2025-07-23 16:35:01,026 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 8: slice(None, 100, None)
+2025-07-23 16:35:01,026 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 9/109
+2025-07-23 16:35:02,559 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 9: slice(None, 100, None)
+2025-07-23 16:35:02,559 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 10/109
+2025-07-23 16:35:04,538 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 10: slice(None, 100, None)
+2025-07-23 16:35:04,538 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 11/109
+2025-07-23 16:35:06,582 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 11: slice(None, 100, None)
+2025-07-23 16:35:06,583 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 12/109
+2025-07-23 16:35:09,498 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 12: slice(None, 100, None)
+2025-07-23 16:35:09,499 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 13/109
+2025-07-23 16:35:11,080 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 13: slice(None, 100, None)
+2025-07-23 16:35:11,081 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 14/109
+2025-07-23 16:35:13,422 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 14: slice(None, 100, None)
+2025-07-23 16:35:13,423 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 15/109
+2025-07-23 16:35:16,035 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 15: slice(None, 100, None)
+2025-07-23 16:35:16,036 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 16/109
+2025-07-23 16:35:19,484 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 16: slice(None, 100, None)
+2025-07-23 16:35:19,485 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 17/109
+2025-07-23 16:35:22,963 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 17: slice(None, 100, None)
+2025-07-23 16:35:22,964 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 18/109
+2025-07-23 16:35:24,232 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 18: slice(None, 100, None)
+2025-07-23 16:35:24,233 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 19/109
+2025-07-23 16:35:27,046 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 19: slice(None, 100, None)
+2025-07-23 16:35:27,047 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 20/109
+2025-07-23 16:35:29,144 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 20: slice(None, 100, None)
+2025-07-23 16:35:29,145 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 21/109
+2025-07-23 16:35:31,780 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 21: slice(None, 100, None)
+2025-07-23 16:35:31,780 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 22/109
+2025-07-23 16:35:33,436 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 22: slice(None, 100, None)
+2025-07-23 16:35:33,437 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 23/109
+2025-07-23 16:35:39,581 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 23: slice(None, 100, None)
+2025-07-23 16:35:39,582 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 24/109
+2025-07-23 16:35:42,349 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 24: slice(None, 100, None)
+2025-07-23 16:35:42,350 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 25/109
+2025-07-23 16:35:44,153 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 25: slice(None, 100, None)
+2025-07-23 16:35:44,153 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 26/109
+2025-07-23 16:35:46,296 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 26: slice(None, 100, None)
+2025-07-23 16:35:46,298 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 27/109
+2025-07-23 16:35:52,453 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 27: slice(None, 100, None)
+2025-07-23 16:35:52,454 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 28/109
+2025-07-23 16:35:54,789 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 28: slice(None, 100, None)
+2025-07-23 16:35:54,790 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 29/109
+2025-07-23 16:35:56,634 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 29: slice(None, 100, None)
+2025-07-23 16:35:56,635 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 30/109
+2025-07-23 16:35:58,652 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 30: slice(None, 100, None)
+2025-07-23 16:35:58,652 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 31/109
+2025-07-23 16:36:00,096 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 31: slice(None, 100, None)
+2025-07-23 16:36:00,097 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 32/109
+2025-07-23 16:36:02,480 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 32: slice(None, 100, None)
+2025-07-23 16:36:02,481 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 33/109
+2025-07-23 16:36:03,946 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 33: slice(None, 100, None)
+2025-07-23 16:36:03,946 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 34/109
+2025-07-23 16:36:06,100 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 34: slice(None, 100, None)
+2025-07-23 16:36:06,101 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 35/109
+2025-07-23 16:36:07,360 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 35: slice(None, 100, None)
+2025-07-23 16:36:07,382 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 36/109
+2025-07-23 16:36:10,037 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 36: slice(None, 100, None)
+2025-07-23 16:36:10,038 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 37/109
+2025-07-23 16:36:12,625 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 37: slice(None, 100, None)
+2025-07-23 16:36:12,626 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 38/109
+2025-07-23 16:36:15,223 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 38: slice(None, 100, None)
+2025-07-23 16:36:15,224 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 39/109
+2025-07-23 16:36:16,645 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 39: slice(None, 100, None)
+2025-07-23 16:36:16,646 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 40/109
+2025-07-23 16:36:18,856 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 40: slice(None, 100, None)
+2025-07-23 16:36:18,857 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 41/109
+2025-07-23 16:36:21,650 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 41: slice(None, 100, None)
+2025-07-23 16:36:21,653 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 42/109
+2025-07-23 16:36:23,407 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 42: slice(None, 100, None)
+2025-07-23 16:36:23,408 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 43/109
+2025-07-23 16:36:26,217 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 43: slice(None, 100, None)
+2025-07-23 16:36:26,218 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 44/109
+2025-07-23 16:36:32,348 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 44: slice(None, 100, None)
+2025-07-23 16:36:32,349 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 45/109
+2025-07-23 16:36:35,488 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 45: slice(None, 100, None)
+2025-07-23 16:36:35,489 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 46/109
+2025-07-23 16:36:38,796 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 46: slice(None, 100, None)
+2025-07-23 16:36:38,796 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 47/109
+2025-07-23 16:36:40,556 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 47: slice(None, 100, None)
+2025-07-23 16:36:40,557 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 48/109
+2025-07-23 16:36:42,185 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 48: slice(None, 100, None)
+2025-07-23 16:36:42,186 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 49/109
+2025-07-23 16:36:43,541 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 49: slice(None, 100, None)
+2025-07-23 16:36:43,548 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 50/109
+2025-07-23 16:36:44,895 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 50: slice(None, 100, None)
+2025-07-23 16:36:44,896 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 51/109
+2025-07-23 16:36:46,917 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 51: slice(None, 100, None)
+2025-07-23 16:36:46,918 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 52/109
+2025-07-23 16:36:49,238 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 52: slice(None, 100, None)
+2025-07-23 16:36:49,240 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 53/109
+2025-07-23 16:36:51,734 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 53: slice(None, 100, None)
+2025-07-23 16:36:51,735 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 54/109
+2025-07-23 16:36:54,296 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 54: slice(None, 100, None)
+2025-07-23 16:36:54,297 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 55/109
+2025-07-23 16:36:55,832 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 55: slice(None, 100, None)
+2025-07-23 16:36:55,833 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 56/109
+2025-07-23 16:36:58,184 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 56: slice(None, 100, None)
+2025-07-23 16:36:58,185 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 57/109
+2025-07-23 16:37:00,017 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 57: slice(None, 100, None)
+2025-07-23 16:37:00,018 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 58/109
+2025-07-23 16:37:01,943 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 58: slice(None, 100, None)
+2025-07-23 16:37:01,944 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 59/109
+2025-07-23 16:37:04,238 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 59: slice(None, 100, None)
+2025-07-23 16:37:04,239 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 60/109
+2025-07-23 16:37:06,263 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 60: slice(None, 100, None)
+2025-07-23 16:37:06,264 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 61/109
+2025-07-23 16:37:08,158 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 61: slice(None, 100, None)
+2025-07-23 16:37:08,161 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 62/109
+2025-07-23 16:37:10,380 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 62: slice(None, 100, None)
+2025-07-23 16:37:10,386 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 63/109
+2025-07-23 16:37:12,008 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 63: slice(None, 100, None)
+2025-07-23 16:37:12,009 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 64/109
+2025-07-23 16:37:14,627 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 64: slice(None, 100, None)
+2025-07-23 16:37:14,628 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 65/109
+2025-07-23 16:37:16,079 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 65: slice(None, 100, None)
+2025-07-23 16:37:16,080 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 66/109
+2025-07-23 16:37:17,727 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 66: slice(None, 100, None)
+2025-07-23 16:37:17,728 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 67/109
+2025-07-23 16:37:20,004 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 67: slice(None, 100, None)
+2025-07-23 16:37:20,005 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 68/109
+2025-07-23 16:37:22,173 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 68: slice(None, 100, None)
+2025-07-23 16:37:22,173 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 69/109
+2025-07-23 16:37:24,572 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 69: slice(None, 100, None)
+2025-07-23 16:37:24,574 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 70/109
+2025-07-23 16:37:26,544 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 70: slice(None, 100, None)
+2025-07-23 16:37:26,547 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 71/109
+2025-07-23 16:37:28,990 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 71: slice(None, 100, None)
+2025-07-23 16:37:28,991 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 72/109
+2025-07-23 16:37:31,596 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 72: slice(None, 100, None)
+2025-07-23 16:37:31,597 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 73/109
+2025-07-23 16:37:34,503 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 73: slice(None, 100, None)
+2025-07-23 16:37:34,504 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 74/109
+2025-07-23 16:37:36,936 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 74: slice(None, 100, None)
+2025-07-23 16:37:36,936 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 75/109
+2025-07-23 16:37:38,668 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 75: slice(None, 100, None)
+2025-07-23 16:37:38,669 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 76/109
+2025-07-23 16:37:41,167 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 76: slice(None, 100, None)
+2025-07-23 16:37:41,168 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 77/109
+2025-07-23 16:37:43,725 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 77: slice(None, 100, None)
+2025-07-23 16:37:43,726 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 78/109
+2025-07-23 16:37:45,815 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 78: slice(None, 100, None)
+2025-07-23 16:37:45,816 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 79/109
+2025-07-23 16:37:48,999 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 79: slice(None, 100, None)
+2025-07-23 16:37:49,001 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 80/109
+2025-07-23 16:37:51,070 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 80: slice(None, 100, None)
+2025-07-23 16:37:51,072 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 81/109
+2025-07-23 16:37:53,879 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 81: slice(None, 100, None)
+2025-07-23 16:37:53,880 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 82/109
+2025-07-23 16:37:55,466 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 82: slice(None, 100, None)
+2025-07-23 16:37:55,467 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 83/109
+2025-07-23 16:37:58,701 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 83: slice(None, 100, None)
+2025-07-23 16:37:58,702 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 84/109
+2025-07-23 16:38:01,550 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 84: slice(None, 100, None)
+2025-07-23 16:38:01,551 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 85/109
+2025-07-23 16:38:03,517 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 85: slice(None, 100, None)
+2025-07-23 16:38:03,517 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 86/109
+2025-07-23 16:38:05,528 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 86: slice(None, 100, None)
+2025-07-23 16:38:05,533 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 87/109
+2025-07-23 16:38:07,157 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 87: slice(None, 100, None)
+2025-07-23 16:38:07,159 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 88/109
+2025-07-23 16:38:08,620 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 88: slice(None, 100, None)
+2025-07-23 16:38:08,621 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 89/109
+2025-07-23 16:38:10,138 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 89: slice(None, 100, None)
+2025-07-23 16:38:10,139 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 90/109
+2025-07-23 16:38:14,502 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 90: slice(None, 100, None)
+2025-07-23 16:38:14,503 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 91/109
+2025-07-23 16:38:16,123 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 91: slice(None, 100, None)
+2025-07-23 16:38:16,124 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 92/109
+2025-07-23 16:38:18,715 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 92: slice(None, 100, None)
+2025-07-23 16:38:18,716 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 93/109
+2025-07-23 16:38:20,767 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 93: slice(None, 100, None)
+2025-07-23 16:38:20,768 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 94/109
+2025-07-23 16:38:23,663 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 94: slice(None, 100, None)
+2025-07-23 16:38:23,664 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 95/109
+2025-07-23 16:38:28,029 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 95: slice(None, 100, None)
+2025-07-23 16:38:28,029 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 96/109
+2025-07-23 16:38:29,600 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 96: slice(None, 100, None)
+2025-07-23 16:38:29,601 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 97/109
+2025-07-23 16:38:31,529 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 97: slice(None, 100, None)
+2025-07-23 16:38:31,530 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 98/109
+2025-07-23 16:38:34,199 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 98: slice(None, 100, None)
+2025-07-23 16:38:34,204 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 99/109
+2025-07-23 16:38:35,478 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 99: slice(None, 100, None)
+2025-07-23 16:38:35,479 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 100/109
+2025-07-23 16:38:36,725 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 100: slice(None, 100, None)
+2025-07-23 16:38:36,727 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 101/109
+2025-07-23 16:38:38,743 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 101: slice(None, 100, None)
+2025-07-23 16:38:38,744 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 102/109
+2025-07-23 16:38:41,143 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 102: slice(None, 100, None)
+2025-07-23 16:38:41,144 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 103/109
+2025-07-23 16:38:43,415 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 103: slice(None, 100, None)
+2025-07-23 16:38:43,417 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 104/109
+2025-07-23 16:38:45,242 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 104: slice(None, 100, None)
+2025-07-23 16:38:45,243 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 105/109
+2025-07-23 16:38:47,598 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 105: slice(None, 100, None)
+2025-07-23 16:38:47,600 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 106/109
+2025-07-23 16:38:50,633 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 106: slice(None, 100, None)
+2025-07-23 16:38:50,634 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 107/109
+2025-07-23 16:38:52,677 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 107: slice(None, 100, None)
+2025-07-23 16:38:52,679 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 108/109
+2025-07-23 16:38:55,021 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 108: slice(None, 100, None)
+2025-07-23 16:38:55,022 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:153] - Processing question 109/109
+2025-07-23 16:38:56,614 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - ERROR    - [enhanced_blank_rfi_agent.py:177] - Error processing question 109: slice(None, 100, None)

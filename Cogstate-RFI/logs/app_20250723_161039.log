@@ -1,0 +1,21 @@
+2025-07-23 16:10:44,610 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:54] - Initialized Advanced LLM Provider: gpt-4o
+2025-07-23 16:10:45,015 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:27] - Initialized Fast LLM Provider: gpt-4-turbo
+2025-07-23 16:10:45,016 - rfiprocessor.services.prompt_loader - INFO     - [prompt_loader.py:38] - Loading prompt 'rfi_parser_summary' from: rfiprocessor\prompts\rfi_parser_summary.txt
+2025-07-23 16:10:45,037 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:41] - BlankRfiParserAgent initialized successfully.
+2025-07-23 16:10:45,040 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:27] - Initialized Fast LLM Provider: gpt-4-turbo
+2025-07-23 16:10:46,410 - rfiprocessor.services.vector_search_service - INFO     - [vector_search_service.py:36] - VectorSearchService initialized successfully.
+2025-07-23 16:10:46,412 - rfiprocessor.services.llm_provider - INFO     - [llm_provider.py:54] - Initialized Advanced LLM Provider: gpt-4o
+2025-07-23 16:10:46,413 - rfiprocessor.services.prompt_loader - INFO     - [prompt_loader.py:38] - Loading prompt 'answer_synthesis' from: rfiprocessor\prompts\answer_synthesis.txt
+2025-07-23 16:10:46,431 - rfiprocessor.services.answer_synthesis_service - INFO     - [answer_synthesis_service.py:26] - AnswerSynthesisService initialized successfully.
+2025-07-23 16:10:46,432 - rfiprocessor.services.prompt_loader - INFO     - [prompt_loader.py:38] - Loading prompt 'question_variant_generator' from: rfiprocessor\prompts\question_variant_generator.txt
+2025-07-23 16:10:46,445 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:49] - EnhancedBlankRfiAgent initialized successfully.
+2025-07-23 16:13:47,745 - rfiprocessor.services.markdown_converter - INFO     - [markdown_converter.py:39] - Converting file: C:\Users\omars\AppData\Local\Temp\tmpqkxn8g5u.docx with markitdown
+2025-07-23 16:13:48,897 - rfiprocessor.services.markdown_converter - INFO     - [markdown_converter.py:111] - Saved markdown to: data\markdown\incoming\tmpqkxn8g5u.md
+2025-07-23 16:13:48,914 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:132] - Generating executive summary...
+2025-07-23 16:19:35,224 - rfiprocessor.services.markdown_converter - INFO     - [markdown_converter.py:39] - Converting file: C:\Users\omars\AppData\Local\Temp\tmpu7t5lxb7.docx with markitdown
+2025-07-23 16:19:37,036 - rfiprocessor.services.markdown_converter - INFO     - [markdown_converter.py:111] - Saved markdown to: data\markdown\incoming\tmpu7t5lxb7.md
+2025-07-23 16:19:37,039 - rfiprocessor.core.agents.enhanced_blank_rfi_agent - INFO     - [enhanced_blank_rfi_agent.py:66] - Starting document processing in batch mode...
+2025-07-23 16:19:37,040 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:132] - Generating executive summary...
+2025-07-23 16:30:22,196 - rfiprocessor.services.markdown_converter - INFO     - [markdown_converter.py:39] - Converting file: C:\Users\omars\AppData\Local\Temp\tmp04zqlb94.docx with markitdown
+2025-07-23 16:30:23,499 - rfiprocessor.services.markdown_converter - INFO     - [markdown_converter.py:111] - Saved markdown to: data\markdown\incoming\tmp04zqlb94.md
+2025-07-23 16:30:23,502 - rfiprocessor.core.agents.blank_rfi_parser - INFO     - [blank_rfi_parser.py:132] - Generating executive summary...
